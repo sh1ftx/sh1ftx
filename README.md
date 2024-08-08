@@ -1,4 +1,4 @@
-### Opa, eu sou o KAy 👋
+### Opa, eu sou o Kay 👋
 
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
