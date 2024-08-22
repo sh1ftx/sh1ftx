@@ -1,6 +1,33 @@
 ## Sobre mim:
 
-<p> Olá! Meu nome é Kayki Ivan e atualmente sou estudante do Instituto Federal do Piauí. Estou em um processo de formação rigorosa e abrangente nos estudos de Análise e Desenvolvimento de Sistemas, com um foco particularmente intenso em engenharia de softwares e Cyber security. Minha jornada acadêmica até agora tem sido uma experiência incrivelmente enriquecedora e desafiadora, marcada por uma exploração consistente e detalhada da intersecção entre o desenvolvimento de projetos inovadores e o uso eficaz de diversas ferramentas Linux. Estou constantemente buscando expandir meus conhecimentos e habilidades nesta área, e estou ansioso para aplicar tudo o que aprendi em futuros projetos. </p>
+<p>Olá! Meu nome é Kayki Ivan e atualmente sou estudante do Instituto Federal do Piauí.</p>
+
+<ul>
+  <li><strong>Formação acadêmica:</strong>
+    <ul>
+      <li>Instituto Federal do Piauí</li>
+      <li>Curso: Análise e Desenvolvimento de Sistemas</li>
+    </ul>
+  </li>
+  <li><strong>Áreas de foco:</strong>
+    <ul>
+      <li>Engenharia de Softwares</li>
+      <li>Cyber Security</li>
+    </ul>
+  </li>
+  <li><strong>Experiência acadêmica:</strong>
+    <ul>
+      <li>Exploração detalhada da intersecção entre desenvolvimento de projetos inovadores e uso de ferramentas Linux.</li>
+    </ul>
+  </li>
+  <li><strong>Objetivo:</strong>
+    <ul>
+      <li>Expandir conhecimentos e habilidades.</li>
+      <li>Aplicar aprendizados em futuros projetos.</li>
+    </ul>
+  </li>
+</ul>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
