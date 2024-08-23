@@ -1,6 +1,6 @@
 ## Sobre mim:
 
-<p>Olá! Meu nome é Kayki Ivan e atualmente sou estudante do Instituto Federal do Piauí.</p>
+<p>Olá! Meu nome é Kayki Ivan e atualmente sou universitário no Instituto Federal do Piauí.</p>
 
 <ul>
   <li><strong>Formação acadêmica:</strong>
