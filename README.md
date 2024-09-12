@@ -11,7 +11,7 @@
   </li>
   <li><strong>Áreas de foco:</strong>
     <ul>
-      <li>Engenharia de Softwares</li>
+      <li>Desenvolvimento web</li>
       <li>Cyber Security</li>
     </ul>
   </li>
