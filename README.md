@@ -1,29 +1,29 @@
-## Sobre mim:
+## About Me:
 
-<p>Olá! Meu nome é Kayki Ivan e atualmente sou universitário no Instituto Federal do Piauí.</p>
+<p>Hello! My name is Kayki Ivan and I am currently a college student at the Federal Institute of Piauí.</p>
 
 <ul>
-  <li><strong>Formação acadêmica:</strong>
+  <li><strong>Academic Background:</strong>
     <ul>
-      <li>Instituto Federal do Piauí</li>
-      <li>Curso: Análise e Desenvolvimento de Sistemas</li>
+      <li>Federal Institute of Piauí</li>
+      <li>Course: Systems Analysis and Development</li>
     </ul>
   </li>
-  <li><strong>Áreas de foco:</strong>
+  <li><strong>Areas of Focus:</strong>
     <ul>
-      <li>Desenvolvimento web</li>
+      <li>Web Development</li>
       <li>Cyber Security</li>
     </ul>
   </li>
-  <li><strong>Experiência acadêmica:</strong>
+  <li><strong>Academic Experience:</strong>
     <ul>
-      <li>Exploração detalhada da intersecção entre desenvolvimento de projetos inovadores e uso de ferramentas Linux.</li>
+      <li>Detailed exploration of the intersection between innovative project development and the use of Linux tools.</li>
     </ul>
   </li>
-  <li><strong>Objetivo:</strong>
+  <li><strong>Objective:</strong>
     <ul>
-      <li>Expandir conhecimentos e habilidades.</li>
-      <li>Aplicar aprendizados em futuros projetos.</li>
+      <li>Expand knowledge and skills.</li>
+      <li>Apply learnings in future projects.</li>
     </ul>
   </li>
 </ul>
@@ -36,17 +36,17 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Estatisticas
+## Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub de sh1ftx" />
+<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats of sh1ftx" />
 
-## Linguagens mais utilizadas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Linguagens mais usadas por sh1ftx" />
+## Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Most Used Languages by sh1ftx" />
 
-## Sequênci atual
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="Commit Streak do GitHub de sh1ftx" />
+## Current Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="GitHub Commit Streak of sh1ftx" />
 
-## Meus perfis
+## My Profiles
  
 <div> 
   <a href="https://www.instagram.com/sous4bit?igsh=MXFiYnF4aWZzZ2IyNg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
