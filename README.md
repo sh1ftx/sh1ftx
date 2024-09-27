@@ -1,6 +1,6 @@
-## About Me:
+## ABOUT ME:
 
-<p>Hello! My name is Kayki Ivan and I am currently a college student at the Federal Institute of Piauí.</p>
+<p>Hey! My name is Kayki Ivan and I am currently a college student at the Federal Institute of Piauí.</p>
 
 <ul>
   <li><strong>Academic Background:</strong>
