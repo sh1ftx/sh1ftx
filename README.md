@@ -36,12 +36,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats of sh1ftx" />
-
 ## Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Most Used Languages by sh1ftx" />
+
+## Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats of sh1ftx" />
 
 ## Current Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="GitHub Commit Streak of sh1ftx" />
