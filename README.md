@@ -1,33 +1,36 @@
-<!-- Adicionando Animação de Texto ao Título -->
-<h1 align="center">
-  <a href="" id="typewriter" style="text-decoration: none; color: inherit;">🌎 Hello World! I'm Kayki Ivan</a>
+<!-- Animação de Escrita -->
+<h1 align="center" style="font-size: 3em;">
+  <span class="typewriter">🌎 Hello World! I'm Kayki Ivan</span>
 </h1>
 
-<!-- Script de Animação de Escrita -->
-<script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", function() {
-    const target = document.getElementById("typewriter");
-    const text = target.textContent;
-    target.textContent = "";
-    let index = 0;
+<!-- CSS para Animação de Escrita -->
+<style>
+  .typewriter {
+    display: inline-block;
+    border-right: 3px solid;
+    font-family: monospace;
+    white-space: nowrap;
+    overflow: hidden;
+    animation: typing 4s steps(40, end), blink .75s step-end infinite;
+    font-size: 2.5em;
+  }
 
-    function type() {
-      if (index < text.length) {
-        target.textContent += text.charAt(index);
-        index++;
-        setTimeout(type, 100); // Velocidade da animação
-      }
-    }
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
 
-    type();
-  });
-</script>
+  @keyframes blink {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+  }
+</style>
 
 ---
 
-### My Profiles
+### <h2 align="center" style="font-size: 2.2em;">My Profiles</h2>
 
-<p align="center">
+<p align="center" style="font-size: 1.2em;">
   <a href="https://www.instagram.com/sous4bit?igsh=MXFiYnF4aWZzZ2IyNg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://discord.gg/Geracao144k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -37,17 +40,17 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center" style="font-size: 2.2em;">👨‍💻 About Me</h2>
 
-<p align="justify" style="text-align: center;">
+<p align="justify" style="text-align: center; font-size: 1.3em;">
   Hey! My name is Kayki Ivan, and I am a passionate college student at the <strong>Federal Institute of Piauí</strong>, studying <strong>Systems Analysis and Development</strong>. My focus areas are <strong>Web Development</strong> and <strong>Cyber Security</strong>. I am committed to applying my knowledge in innovative projects while constantly expanding my skills.
 </p>
 
 ---
 
-<h2 align="center">🎯 My Objectives</h2>
+<h2 align="center" style="font-size: 2.2em;">🎯 My Objectives</h2>
 
-<p align="justify" style="text-align: center;">
+<p align="justify" style="text-align: center; font-size: 1.3em;">
   - Continuously grow my technical expertise.<br/>
   - Apply new skills in meaningful projects.<br/>
   - Contribute to open-source communities and collaborate with like-minded developers.
@@ -55,9 +58,9 @@
 
 ---
 
-<h2 align="center">🎓 Academic Background</h2>
+<h2 align="center" style="font-size: 2.2em;">🎓 Academic Background</h2>
 
-<p align="justify" style="text-align: center;">
+<p align="justify" style="text-align: center; font-size: 1.3em;">
   <strong>Institution:</strong> Federal Institute of Piauí<br/>
   <strong>Program:</strong> Systems Analysis and Development<br/>
   <strong>Experience:</strong> Gained hands-on experience in web development and cyber security projects, with a deep dive into Linux tools and systems.
@@ -65,35 +68,39 @@
 
 ---
 
-<h2 align="center">🛠️ Tools & Technologies</h2>
+<h2 align="center" style="font-size: 2.2em;">🛠️ Tools & Technologies</h2>
 
 <p align="center">
   <!-- Ferramentas de desenvolvimento -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 
   <!-- Distribuições Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Archlinux-icon-crystal-64.svg" alt="Arch Linux" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Parrot_logo.png" alt="Parrot OS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tails-logo.png" alt="Tails OS" width="50" height="50"/>
 
   <!-- Ferramentas de Edição -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="50" height="50"/>
   
   <!-- Ferramentas de Hacking -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Burp_suite_logo.png" alt="Burp Suite" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Metasploit-framework-logo.png" alt="Metasploit" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nmap_logo.svg" alt="Nmap" width="50" height="50"/>
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center" style="font-size: 2.2em;">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Most Used Languages by sh1ftx" />
@@ -105,9 +112,9 @@
 
 ---
 
-<h2 align="center">🚀 Current Projects</h2>
+<h2 align="center" style="font-size: 2.2em;">🚀 Current Projects</h2>
 
-<p align="justify" style="text-align: center;">
+<p align="justify" style="text-align: center; font-size: 1.3em;">
   - Developing web applications with <strong>React.js</strong> and <strong>Node.js</strong>.<br/>
   - Expanding knowledge in <strong>Cyber Security</strong> and applying security techniques to real-world challenges.<br/>
   - Automating tasks with <strong>Python</strong> and creating scripts for security purposes.
@@ -115,7 +122,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake Animation</h2>
+<h2 align="center" style="font-size: 2.2em;">🐍 Contribution Snake Animation</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
