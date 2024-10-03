@@ -2,7 +2,7 @@
 
 ## About Me:
 
-<p align="center">Hello! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí.</p>
+<p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí.</p>
 
 <ul>
   <li><strong>Education:</strong>
