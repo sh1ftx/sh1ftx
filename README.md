@@ -1,63 +1,71 @@
-## Hello world! I'm Kayki...
+## 🌎 Hello World! I'm Kayki Ivan
 
-### My Profiles
+<p align="center"> 
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="https://www.instagram.com/sous4bit?igsh=MXFiYnF4aWZzZ2IyNg==" target="_blank">
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" href="https://www.twitch.tv/sh1ft7172" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" href="https://discord.gg/Geracao144k" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:ivankayki72@gmail.com">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank">
+</p>
 
-<div> 
-  <a href="https://www.instagram.com/sous4bit?igsh=MXFiYnF4aWZzZ2IyNg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/Geracao144k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit:e" target="_blank"></a> 
-  <a href = "ivankayki72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
 
-<p>Hey! My name is Kayki Ivan and I am currently a college student at the Federal Institute of Piauí.</p>
+### 👨‍💻 About Me
 
-<ul>
-  <li><strong>Academic Background:</strong>
-    <ul>
-      <li>Federal Institute of Piauí</li>
-      <li>Course: Systems Analysis and Development</li>
-    </ul>
-  </li>
-  <li><strong>Areas of Focus:</strong>
-    <ul>
-      <li>Web Development</li>
-      <li>Cyber Security</li>
-    </ul>
-  </li>
-  <li><strong>Academic Experience:</strong>
-    <ul>
-      <li>Detailed exploration of the intersection between innovative project development and the use of Linux tools.</li>
-    </ul>
-  </li>
-  <li><strong>Objective:</strong>
-    <ul>
-      <li>Expand knowledge and skills.</li>
-      <li>Apply learnings in future projects.</li>
-    </ul>
-  </li>
-</ul>
+<p align="center">
+  Hey! My name is Kayki Ivan, and I am currently a student at the <strong>Federal Institute of Piauí</strong>, pursuing a degree in <strong>Systems Analysis and Development</strong>. I'm passionate about technology, especially in areas like <strong>Web Development</strong> and <strong>Cyber Security</strong>. I love exploring new technologies, contributing to open-source, and working on innovative projects!
+</p>
 
+### 🎯 My Objectives:
+- Expand my knowledge and technical skills.
+- Work on exciting, real-world projects that create value.
+- Contribute more to open-source communities.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
 
-## Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Most Used Languages by sh1ftx" />
+### 🎓 Academic Background
+- **Institution:** Federal Institute of Piauí
+- **Program:** Systems Analysis and Development
+- **Focus Areas:** Web Development, Cyber Security
+- **Experience:** Developed several projects exploring the use of Linux tools and technologies.
 
-## Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats of sh1ftx" />
+---
 
-## Current Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="GitHub Commit Streak of sh1ftx" />
+### 🛠️ Tools & Technologies
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Most Used Languages by sh1ftx" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats of sh1ftx" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="GitHub Commit Streak of sh1ftx" />
+</p>
+
+---
+
+### 🚀 Current Projects
+- Developing a web application that combines **React.js** and **Node.js**.
+- Exploring **cyber security** techniques and applying them to personal projects.
+- Expanding my knowledge of **Python** for automation and security scripting.
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+</p>
 
