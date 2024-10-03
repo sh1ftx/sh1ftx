@@ -85,12 +85,6 @@
   <!-- Ferramentas de Edição -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="50" height="50"/>
-  
-  <!-- Ferramentas de Hacking -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Burp_suite_logo.png" alt="Burp Suite" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Metasploit-framework-logo.png" alt="Metasploit" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Nmap_logo.svg" alt="Nmap" width="50" height="50"/>
-</p>
 
 ---
 
