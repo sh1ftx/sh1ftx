@@ -1,6 +1,8 @@
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0290FF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+👋;)](https://git.io/typing-svg)
 
-<p align="center"><strong>About Me:</strong></p>
+## <p align="center"><strong>About Me:</strong></p>
 
 <p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí.</p>
 
@@ -45,7 +47,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 0 10px;"/>
 </p>
 
-<p align="center"><strong>Contact:</strong></p>
+## <p align="center"><strong>Contact:</strong></p>
 
 <div align="center"> 
   <a href="https://www.instagram.com/sous4bit?igsh=MXFiYnF4aWZzZ2IyNg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -55,7 +57,7 @@
   <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p align="center"><strong>Statistics:</strong></p>
+## <p align="center"><strong>Statistics:</strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Most Used Languages"/>
@@ -65,7 +67,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="Commit Streak"/>
 </p>
 
-<p align="center"><strong>🐍 Contribution Snake Animation:</strong></p>
+## <p align="center"><strong>🐍 Contribution Snake Animation:</strong></p>
 
 The contribution snake animation is a fun way to showcase my commitment to the GitHub community. It visually represents the continuity of my efforts and contributions over time, reflecting my dedication to learning and development.
 
