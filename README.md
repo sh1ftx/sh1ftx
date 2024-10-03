@@ -1,7 +1,7 @@
-<!-- Animação de Escrita -->
-<h1 align="center">🌎 Olá Mundo! Sou Kayki Ivan</h1>
+<!-- Writing Animation -->
+<h1 align="center">🌎 Hello World! I'm Kayki Ivan</h1>
 
-<!-- CSS para Animação de Escrita -->
+<!-- CSS for Writing Animation -->
 <style>
   .typewriter {
     display: inline-block;
@@ -27,7 +27,9 @@
 
 ---
 
-<h2 align="center">Minhas Redes</h2>
+### My Networks
+
+I am always connected and available on social media. You can find me and follow my work on different platforms. Feel free to add me, send a message, or share ideas about projects, technology, or any topic you find interesting. Interaction and knowledge sharing are fundamental to my personal and professional growth.
 
 <p align="center">
   <a href="https://www.instagram.com/sous4bit?igsh=MXFiYnF4aWZzZ2IyNg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
@@ -39,33 +41,33 @@
 
 ---
 
-<h2 align="center">👨‍💻 Sobre Mim</h2>
+### 👨‍💻 About Me
 
-<p align="center">Olá! Meu nome é Kayki Ivan, sou estudante do <strong>Instituto Federal do Piauí</strong>, onde estudo <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho interesse em <strong>Desenvolvimento Web</strong> e <strong>Segurança Cibernética</strong>. Estou sempre buscando aplicar meu conhecimento em projetos práticos e inovadores.</p>
-
----
-
-<h2 align="center">🎯 Meus Objetivos</h2>
-
-<p align="center">
-  - Crescer continuamente em minha expertise técnica.<br>
-  - Aplicar novas habilidades em projetos impactantes.<br>
-  - Contribuir para comunidades de código aberto.
-</p>
+Hello! My name is Kayki Ivan, and I am a student at the **Federal Institute of Piauí**, where I study **Systems Analysis and Development**. From a young age, I developed a passion for technology and how it can transform people's lives. I have a particular interest in **Web Development** and **Cybersecurity**, areas in which I seek to deepen my knowledge and acquire practical skills. I am always looking for opportunities to apply my knowledge in practical and innovative projects, whether through internships, volunteer work, or personal projects. I believe that education and hands-on experience are essential to becoming a competent and up-to-date professional.
 
 ---
 
-<h2 align="center">🎓 Formação Acadêmica</h2>
+### 🎯 My Goals
 
-<p align="center">
-  <strong>Instituição:</strong> Instituto Federal do Piauí<br>
-  <strong>Curso:</strong> Análise e Desenvolvimento de Sistemas<br>
-  <strong>Experiência:</strong> Desenvolvimento prático em projetos de segurança e web, utilizando ferramentas como Linux.
-</p>
+- **Continuously grow in my technical expertise.** I am committed to learning constantly, both in academic and practical settings, exploring new programming languages, tools, and methodologies.
+  
+- **Apply new skills to impactful projects.** I want to utilize my knowledge to develop solutions that truly make a difference, whether for companies, communities, or individuals.
+  
+- **Contribute to open-source communities.** I believe in the power of collaboration and the importance of sharing knowledge. Participating in open-source projects is a way to contribute to the community and also to learn from other developers.
 
 ---
 
-<h2 align="center">🛠️ Ferramentas & Tecnologias</h2>
+### 🎓 Academic Background
+
+**Institution:** Federal Institute of Piauí  
+**Course:** Systems Analysis and Development  
+**Experience:** Throughout my education, I have had the opportunity to work on practical projects in various areas, especially in security and web development. I have learned to use tools like Linux, which are fundamental for developing secure and efficient software. The experience gained from academic projects has prepared me to face real challenges in the job market.
+
+---
+
+### 🛠️ Tools & Technologies
+
+I am always looking for new tools and technologies that can enhance my efficiency and expand my skill set. Throughout my journey, I have had the chance to work with various technologies that are essential for modern development, including programming languages and development tools. I am continuously exploring new options and keeping up with market trends.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
@@ -84,30 +86,36 @@
 
 ---
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
+### 📊 GitHub Statistics
+
+My GitHub profile reflects my progress and dedication to software development. Through it, I share projects, collaborations, and contributions to the developer community. I get excited when I see my growth over time and I am always looking for ways to improve and expand my portfolio.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Most Used Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="Streak de commits"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="Commit Streak"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 Projetos Atuais</h2>
+### 🚀 Current Projects
 
-<p align="center">
-  - Desenvolvendo aplicações web com <strong>React.js</strong> e <strong>Node.js</strong>.<br>
-  - Aprimorando habilidades em <strong>Segurança Cibernética</strong> e aplicando técnicas em desafios reais.<br>
-  - Automatizando processos com <strong>Python</strong> para maior eficiência.
-</p>
+I am currently involved in various projects that challenge me to apply my skills and expand my knowledge:
+
+- **Developing web applications with React.js and Node.js.** I am creating dynamic and interactive applications that provide an excellent user experience while exploring best development practices.
+  
+- **Enhancing skills in Cybersecurity.** I am studying and applying security techniques to protect applications and data, ensuring that the systems I develop are robust and secure.
+  
+- **Automating processes with Python.** I am using Python to create scripts that automate repetitive tasks, increasing efficiency and allowing me to focus on more creative and challenging activities.
 
 ---
 
-<h2 align="center">🐍 Animação de Cobra de Contribuição</h2>
+### 🐍 Contribution Snake Animation
+
+The contribution snake animation is a fun way to showcase my commitment to the GitHub community. It visually represents the continuity of my efforts and contributions over time, reflecting my dedication to learning and development.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Animação de cobra de contribuição"/>
+  <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
