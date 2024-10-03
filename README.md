@@ -27,7 +27,7 @@
 
 ---
 
-### Minhas Redes
+<h2 align="center">Minhas Redes</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/sous4bit?igsh=MXFiYnF4aWZzZ2IyNg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
@@ -39,29 +39,33 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+<h2 align="center">👨‍💻 Sobre Mim</h2>
 
-Olá! Meu nome é Kayki Ivan, sou estudante do **Instituto Federal do Piauí**, onde estudo **Análise e Desenvolvimento de Sistemas**. Tenho interesse em **Desenvolvimento Web** e **Segurança Cibernética**. Estou sempre buscando aplicar meu conhecimento em projetos práticos e inovadores.
-
----
-
-### 🎯 Meus Objetivos
-
-- Crescer continuamente em minha expertise técnica.
-- Aplicar novas habilidades em projetos impactantes.
-- Contribuir para comunidades de código aberto.
+<p align="center">Olá! Meu nome é Kayki Ivan, sou estudante do <strong>Instituto Federal do Piauí</strong>, onde estudo <strong>Análise e Desenvolvimento de Sistemas</strong>. Tenho interesse em <strong>Desenvolvimento Web</strong> e <strong>Segurança Cibernética</strong>. Estou sempre buscando aplicar meu conhecimento em projetos práticos e inovadores.</p>
 
 ---
 
-### 🎓 Formação Acadêmica
+<h2 align="center">🎯 Meus Objetivos</h2>
 
-**Instituição:** Instituto Federal do Piauí  
-**Curso:** Análise e Desenvolvimento de Sistemas  
-**Experiência:** Desenvolvimento prático em projetos de segurança e web, utilizando ferramentas como Linux.
+<p align="center">
+  - Crescer continuamente em minha expertise técnica.<br>
+  - Aplicar novas habilidades em projetos impactantes.<br>
+  - Contribuir para comunidades de código aberto.
+</p>
 
 ---
 
-### 🛠️ Ferramentas & Tecnologias
+<h2 align="center">🎓 Formação Acadêmica</h2>
+
+<p align="center">
+  <strong>Instituição:</strong> Instituto Federal do Piauí<br>
+  <strong>Curso:</strong> Análise e Desenvolvimento de Sistemas<br>
+  <strong>Experiência:</strong> Desenvolvimento prático em projetos de segurança e web, utilizando ferramentas como Linux.
+</p>
+
+---
+
+<h2 align="center">🛠️ Ferramentas & Tecnologias</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
@@ -80,7 +84,7 @@ Olá! Meu nome é Kayki Ivan, sou estudante do **Instituto Federal do Piauí**, 
 
 ---
 
-### 📊 Estatísticas do GitHub
+<h2 align="center">📊 Estatísticas do GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
@@ -92,15 +96,17 @@ Olá! Meu nome é Kayki Ivan, sou estudante do **Instituto Federal do Piauí**, 
 
 ---
 
-### 🚀 Projetos Atuais
+<h2 align="center">🚀 Projetos Atuais</h2>
 
-- Desenvolvendo aplicações web com **React.js** e **Node.js**.
-- Aprimorando habilidades em **Segurança Cibernética** e aplicando técnicas em desafios reais.
-- Automatizando processos com **Python** para maior eficiência.
+<p align="center">
+  - Desenvolvendo aplicações web com <strong>React.js</strong> e <strong>Node.js</strong>.<br>
+  - Aprimorando habilidades em <strong>Segurança Cibernética</strong> e aplicando técnicas em desafios reais.<br>
+  - Automatizando processos com <strong>Python</strong> para maior eficiência.
+</p>
 
 ---
 
-### 🐍 Animação de Cobra de Contribuição
+<h2 align="center">🐍 Animação de Cobra de Contribuição</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Animação de cobra de contribuição"/>
