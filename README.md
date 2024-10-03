@@ -82,12 +82,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 
-  <!-- Distribuições Linux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Archlinux-icon-crystal-64.svg" alt="Arch Linux" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Parrot_logo.png" alt="Parrot OS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tails-logo.png" alt="Tails OS" width="50" height="50"/>
-
   <!-- Ferramentas de Edição -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="Replit" width="50" height="50"/>
