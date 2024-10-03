@@ -32,8 +32,6 @@
   </li>
 </ul>
 
-## <p align="center"><strong>🛠️ Tools & Technologies</strong></p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40" style="margin: 0 10px;"/>
