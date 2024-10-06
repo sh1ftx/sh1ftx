@@ -47,6 +47,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 0 10px;"/>
 </p>
 
+<p align="center">(I will master all this soon ;)) </p>
+
 ## <p align="center"><strong>Contact:</strong></p>
 
 <div align="center"> 
