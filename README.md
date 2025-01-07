@@ -72,8 +72,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1ftx&theme=radical" alt="Commit Streak"/>
-</p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical)
 
 ## <p align="center"><strong>🐍 Contribution Snake Animation:</strong></p>
 
