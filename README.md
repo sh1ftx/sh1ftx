@@ -9,7 +9,7 @@
 
 ## <p align="center"><strong>About Me:</strong></p>
 
-<p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí.</p> <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
+<p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí. <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50"> </p> 
 
 
 <ul>
