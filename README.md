@@ -1,10 +1,3 @@
-```javascript
-const Kayki = {
-  pronouns: "he" || "him",
-  code: [HTML5, CSS3, Python, C, C++, Golang];
-}
-```
-
 <br>
 <br>
 <br>
@@ -16,9 +9,8 @@ const Kayki = {
 
 ## <p align="center"><strong>About Me:</strong></p>
 
-<img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
+<p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí.</p> <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
 
-<p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí.</p>
 
 <ul>
   <li><strong>Education:</strong>
@@ -81,8 +73,12 @@ const Kayki = {
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <br>
-  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=sh1ftx)](https://wakatime.com/@sh1ftx)
-
+  ```javascript
+  const Kayki = {
+  pronouns: "he" || "him",
+  code: [HTML5, CSS3, Python, C, C++, Golang];
+ }
+```
 ## <p align="center"><strong>🐍 Contribution Snake Animation:</strong></p>
 
 The contribution snake animation is a fun way to showcase my commitment to the GitHub community. It visually represents the continuity of my efforts and contributions over time, reflecting my dedication to learning and development.
