@@ -72,7 +72,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical)
+  [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=sh1ftx)](https://wakatime.com/@sh1ftx)
 
 ## <p align="center"><strong>🐍 Contribution Snake Animation:</strong></p>
 
