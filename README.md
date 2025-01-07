@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50">
 <br>
 <br>
 <br>
@@ -7,7 +8,7 @@
 <br>
 <br>
 
-## <p align="center"><strong> <img src="https://media.giphy.com/media/UQsHPXWUijXGwdEGeZ/giphy.gif?cid=ecf05e47yg8ptjwotii05ygoqrvvsuqp27o7d8duy3asxqaf&rid=giphy.gif&ct=s" width="50"> About Me:</strong></p>
+## <p align="center"><strong>About Me:</strong></p>
 
 <p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí. </p> 
 
@@ -73,17 +74,6 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
   <br>
-  
-  ```javascript
-  const Kayki = {
-  pronouns: "he" || "him",
-  code: [HTML5, CSS3, Python, C, C++, Golang];
- }
-```
-## <p align="center"><strong>🐍 Contribution Snake Animation:</strong></p>
-
-The contribution snake animation is a fun way to showcase my commitment to the GitHub community. It visually represents the continuity of my efforts and contributions over time, reflecting my dedication to learning and development.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
