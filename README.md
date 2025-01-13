@@ -9,8 +9,6 @@
 
 ## <p align="center"><strong>About Me:</strong></p>
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-
 <p align="center">Hey Guys! My name is Kayki Ivan, and I am currently a university student at the Federal Institute of Piauí.</p>
 
 <ul>
@@ -38,6 +36,8 @@
     </ul>
   </li>
 </ul>
+
+<img align="right" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" style="margin: 0 10px;"/>
