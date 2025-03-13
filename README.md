@@ -1,26 +1,28 @@
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=b0b0b0&size=35&center=true&vCenter=true&width=1000&lines=Kayki+Ivan+|+sh1ftx" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00A2FF&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+🌙" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPI**.  
-💡 Apaixonado por **tecnologia, desenvolvimento web e cibersegurança**.  
-📍 **Piauí, Brasil** | INTP 🧠 | Nerd por natureza.  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no **IFPI**  
+💡 Apaixonado por **tecnologia, back-end, cibersegurança e investigação digital**  
+📍 **Piauí, Brasil** | **INTP 🧠 | Nerd por natureza**  
 
 ---
 
 ## 🚀 Áreas de Interesse:
-✔️ Desenvolvimento Web  
-✔️ Cibersegurança  
-✔️ Sistemas Linux & DevOps  
+<p align="center">
+  🚀 **Dev Back-End**  
+  🔐 **Cibernético**  
+  🕵️‍♂️ **Investigação Digital**  
+</p>
 
 ---
 
-## 🛠️ Tech Stack:
+## ⚡ Tech Stack:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40"/>
@@ -56,5 +58,5 @@
 
 ## 🐍 GitHub Contributions:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://github.com/sh1ftx/sh1ftx/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" style="filter: hue-rotate(190deg);"/>
 </p>
