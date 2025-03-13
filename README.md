@@ -6,36 +6,41 @@
 
 ## <p align="center"><strong>Kayki Ivan</strong></p>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no IFPI.<br> Apaixonado por tecnologia, desenvolvimento web e cibersegurança.</p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no IFPI.<br> Apaixonado por tecnologia, desenvolvimento back-end e cibersegurança.</p>
 
 ---
 
-### 🚀 Áreas de Interesse:
-- Desenvolvimento Web
-- Cibersegurança
-- Sistemas Linux & DevOps
-
-### 🎯 Objetivos:
-- Aprimorar habilidades técnicas
-- Criar projetos inovadores e compartilhar conhecimento
+### 🔹 **Áreas de Interesse**
+- ⚙ **Desenvolvimento Back-end**
+- 🔐 **Cibersegurança**
+- 🕵 **Investigação Cibernética**
+- 🖥 **Sistemas Linux & DevOps**
 
 ---
 
-### 🛠️ Tech Stack:
+### 🎯 **Objetivos**
+- 🔧 **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
+- 🚀 **Almejando Full Stack**, com foco especial em Back-end  
+- 🛠 **Aprendendo Golang** como uma das principais tecnologias  
+
+---
+
+### 🛠️ **Tech Stack**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="35"/>
 </p>
 
 ---
 
-### 📬 Contato:
+### 📬 **Contato**
 <p align="center">
   <a href="https://www.instagram.com/sous4bit" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
@@ -46,7 +51,7 @@
 
 ---
 
-### 📊 Estatísticas:
+### 📊 **Estatísticas**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
   <br>
@@ -55,7 +60,7 @@
 
 ---
 
-### 🐍 GitHub Contributions:
+### 🐍 **GitHub Contributions**
 <p align="center">
   <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
