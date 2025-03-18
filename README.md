@@ -1,12 +1,10 @@
-<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=b0b0b0&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+🌙" />
 </p>
-<br>
 
 ## <p align="center"><strong>Kayki Ivan</strong></p>
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no IFPI.<br> Apaixonado por tecnologia, desenvolvimento back-end e cibersegurança.</p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas no IFPI.<br> Apaixonado por tecnologia, desenvolvimento back-end, cibersegurança e inteligência artificial.</p>
 
 ---
 
@@ -15,6 +13,7 @@
 - 🔐 **Cibersegurança**
 - 🕵 **Investigação Cibernética**
 - 🖥 **Sistemas Linux & DevOps**
+- 🧠 **Inteligência Artificial & Machine Learning**
 
 ---
 
@@ -22,6 +21,7 @@
 - 🔧 **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
 - 🚀 **Almejando Full Stack**, com foco especial em Back-end  
 - 🛠 **Aprendendo Golang** como uma das principais tecnologias  
+- 🤖 **Explorando o desenvolvimento de sistemas inteligentes**  
 
 ---
 
@@ -32,10 +32,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_intelligence_icon.svg" alt="AI" width="35"/>
 </p>
 
 ---
