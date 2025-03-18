@@ -36,8 +36,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_intelligence_icon.svg" alt="AI" width="35"/>
-</p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Artificial_Intelligence.svg" alt="IA" width="35"/>
 
 ---
 
