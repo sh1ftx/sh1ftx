@@ -20,6 +20,15 @@
 
 ---
 
+### 📊 **Estatísticas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+</p>
+
+---
+
 ### 🎯 **Objetivos**
 - 🔧 **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
 - 🚀 **Almejando Full Stack**, com foco especial em Back-end  
@@ -55,20 +64,4 @@
   <a href="https://discord.gg/Geracao144k" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
----
-
-### 📊 **Estatísticas**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
-
-### 🐍 **GitHub Contributions**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sh1ftx/sh1ftx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </p>
