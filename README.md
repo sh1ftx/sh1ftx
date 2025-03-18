@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=b0b0b0&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+🌙" />
 </p>
 
-## **Kayki Ivan**
+<p align="center"> ## **Kayki Ivan** </p>
 
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPI.  
 - ✝️ Desenvolvedor cristão, criando soluções para melhorar a experiência em igrejas e comunidades religiosas.  
@@ -11,7 +11,7 @@
 
 ---
 
-### 🔹 **Áreas de Interesse**
+<p align="center"> ### 🔹 **Áreas de Interesse** </p>
 - ⚙ **Desenvolvimento Back-end**
 - 🔐 **Cibersegurança**
 - 🕵 **Investigação Cibernética**
@@ -20,7 +20,7 @@
 
 ---
 
-### 📊 **Estatísticas**
+<p align="center"> ### 📊 **Estatísticas** </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
   <br>
@@ -29,7 +29,7 @@
 
 ---
 
-### 🎯 **Objetivos**
+<p align="center"> ### 🎯 **Objetivos** </p>
 - 🔧 **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
 - 🚀 **Almejando Full Stack**, com foco especial em Back-end  
 - 🛠 **Aprimorando Golang** como uma das principais tecnologias  
@@ -37,7 +37,7 @@
 
 ---
 
-### 🛠️ **Tech Stack**
+<p align="center"> ### 🛠️ **Tech Stack** </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35"/>
@@ -57,7 +57,7 @@
 
 ---
 
-### 📬 **Contato**
+<p align="center"> ### 📬 **Contato** </p>
 <p align="center">
   <a href="https://www.instagram.com/sous4bit" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
