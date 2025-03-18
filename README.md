@@ -20,20 +20,20 @@
 
 ---
 
+### 🎯 **Objetivos**
+- 🔧 **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
+- 🚀 **Almejando Full Stack**, com foco especial em Back-end  
+- 🛠 **Aprimorando Golang** como uma das principais tecnologias  
+- 🤖 **Explorando o desenvolvimento de sistemas inteligentes**  
+
+---
+
 ### 📊 **Estatísticas**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
 </p>
-
----
-
-### 🎯 **Objetivos**
-- 🔧 **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
-- 🚀 **Almejando Full Stack**, com foco especial em Back-end  
-- 🛠 **Aprimorando Golang** como uma das principais tecnologias  
-- 🤖 **Explorando o desenvolvimento de sistemas inteligentes**  
 
 ---
 
