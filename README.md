@@ -7,7 +7,7 @@
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFPI.  
 - ✝️ Desenvolvedor cristão, criando soluções para melhorar a experiência em igrejas e comunidades religiosas.  
 - 💼 Aberto a oportunidades em empresas, freelancing e servidores Discord.  
-- 🖥 Apaixonado por tecnologia, desenvolvimento back-end, cibersegurança e inteligência artificial.  
+- 🖥 Entusiasta de tecnologia, desenvolvimento back-end, cibersegurança e inteligência artificial.  
 
 ---
 
