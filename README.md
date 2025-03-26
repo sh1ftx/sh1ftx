@@ -1,30 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6C757D&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+🌙" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=50FA7B&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+🌙" />
 </p>
 
 ## **Kayki Ivan**
 
-- 🎓 **Estudante** de Análise e Desenvolvimento de Sistemas no IFPI  
-- ✝ **Desenvolvedor cristão**, criando soluções para igrejas e comunidades religiosas  
+- 👨‍🎓 **Estudante** de Análise e Desenvolvimento de Sistemas no IFPI  
+- ✝️ **Desenvolvedor cristão**, criando soluções para igrejas e comunidades religiosas  
 - 💼 **Aberto a oportunidades** em empresas, freelancing e servidores Discord  
 - 🖥 **Entusiasta** de back-end, cibersegurança e inteligência artificial  
 
 ---
 
-### 🎯 **Áreas de Interesse**
-- ⚙️ **Desenvolvimento Back-end**
+### 🌿 **Áreas de Interesse**
+- ⚙ **Desenvolvimento Back-end**
 - 🔐 **Cibersegurança**
-- 🕵️ **Investigação Cibernética**
-- 🖥️ **Sistemas Linux & DevOps**
+- 🕵 **Investigação Cibernética**
+- 🖥 **Sistemas Linux & DevOps**
 - 🤖 **Inteligência Artificial & Machine Learning**
 
 ---
 
 ### 🚀 **Objetivos**
-- 🛠️ **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
+- 🔧 **Aprimorar habilidades técnicas** e aprofundar conhecimentos avançados  
 - 💻 **Almejando Full Stack**, com foco especial em Back-end  
-- 🏗️ **Aprimorando Golang** como uma das principais tecnologias  
-- 🔬 **Explorando o desenvolvimento de sistemas inteligentes**  
+- 🛠 **Aprimorando Golang** como uma das principais tecnologias  
+- 🧠 **Explorando o desenvolvimento de sistemas inteligentes**  
 
 ---
 
@@ -51,11 +51,11 @@
 
 ### 📬 **Contato**
 <p align="center">
-  <a href="https://www.instagram.com/sous4bit" target="_blank"><img src="https://img.shields.io/badge/Instagram-%236C757D?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-%236C757D?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://discord.gg/Geracao144k" target="_blank"><img src="https://img.shields.io/badge/Discord-%236C757D?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-%236C757D?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%236C757D?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/sous4bit" target="_blank"><img src="https://img.shields.io/badge/Instagram-%2350FA7B?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-%2350FA7B?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="https://discord.gg/Geracao144k" target="_blank"><img src="https://img.shields.io/badge/Discord-%2350FA7B?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2350FA7B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%2350FA7B?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
