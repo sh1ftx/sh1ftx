@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=1d232e&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+🌙" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+🌙" />
 </p>
 
 ## **Kayki Ivan**
