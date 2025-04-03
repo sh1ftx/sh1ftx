@@ -51,7 +51,6 @@
 
 ### 📬 **Contato**
 <p align="center">
-  <a href="https://www.instagram.com/sous4bit" target="_blank"><img src="https://img.shields.io/badge/Instagram-%231d232e?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-%231d232e?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://discord.gg/Geracao144k" target="_blank"><img src="https://img.shields.io/badge/Discord-%231d232e?style=for-the-badge&logo=discord&logoColor=white"></a> 
   <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231d232e?style=for-the-badge&logo=gmail&logoColor=white"></a>
