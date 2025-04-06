@@ -1,30 +1,35 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hey+there,+I'm+Kayki+Ivan!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys+🌀!" />
 </p>
 
 ## ✨ Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFPI, apaixonado por tecnologia, engenharia de software e soluções inteligentes.  
-Busco oportunidades como desenvolvedor back-end, contribuinte em projetos open-source e freelancer, com forte interesse em segurança e IA.
+<p align="justify">
+Sou estudante de Análise e Desenvolvimento de Sistemas no IFPI, com uma paixão por desenvolvimento back-end, segurança da informação e inteligência artificial. Busco oportunidades para atuar como desenvolvedor, contribuindo com soluções robustas, éticas e eficientes em projetos open-source, freelas ou empresas inovadoras.
+</p>
 
 ---
 
 ## 📌 Áreas de Interesse
 
-- Desenvolvimento Back-end (Golang, Python, C++)
-- Cibersegurança & Investigação Cibernética
-- Inteligência Artificial & Machine Learning
-- Sistemas Linux, DevOps e automações
-- Arquitetura de software e containers
+<p align="justify">
+⚙️ Desenvolvimento Back-end com foco em desempenho e arquitetura limpa  
+🔐 Cibersegurança & Investigação Cibernética para ambientes Linux  
+🧠 Inteligência Artificial & Machine Learning aplicados a automações e tomadas de decisão  
+🖥 Sistemas Linux & DevOps, com ênfase em otimização e automação  
+📡 Conexão entre hardware e software em sistemas embarcados e IoT  
+</p>
 
 ---
 
 ## 🎯 Objetivos
 
-- Aprimorar habilidades técnicas e conhecimento em sistemas distribuídos
-- Tornar-se um Full Stack sólido, com ênfase em back-end robusto
-- Consolidar Golang como principal linguagem para aplicações críticas
-- Desenvolver soluções que unam performance, segurança e inteligência
+<p align="justify">
+🎓 Aprimorar constantemente minhas habilidades técnicas e de engenharia de software  
+🧩 Evoluir para um perfil Full Stack com domínio avançado em back-end  
+⚡ Consolidar Golang como linguagem principal para sistemas performáticos  
+🤖 Desenvolver aplicações que combinem segurança, inteligência e eficiência  
+</p>
 
 ---
 
