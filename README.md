@@ -33,10 +33,10 @@
 
 <div align="justify">
 
-- 📚 **Aprimorar habilidades técnicas**, dominando padrões arquiteturais modernos  
-- 📚 **Almejando Full Stack**, com sólida base no Back-end  
-- 📚 **Aprimorando Golang** como ferramenta principal de desenvolvimento  
-- 📚 **Explorando o desenvolvimento de sistemas inteligentes**, focando em IA útil e ética  
+- 📌 **Aprimorar habilidades técnicas**, dominando padrões arquiteturais modernos  
+- 📌 **Almejando Full Stack**, com sólida base no Back-end  
+- 📌 **Aprimorando Golang** como ferramenta principal de desenvolvimento  
+- 📌 **Explorando o desenvolvimento de sistemas inteligentes**, focando em IA útil e ética  
 
 </div>
 
