@@ -15,28 +15,28 @@
 
 ---
 
-### 🎯 **Áreas de Interesse**
+### 📘 **Áreas de Interesse**
 
 <div align="justify">
 
-- ⚙ **Desenvolvimento Back-end** — foco em performance, escalabilidade e código limpo  
-- 🔐 **Cibersegurança** — análise de vulnerabilidades, criptografia e boas práticas  
-- 🕵 **Investigação Cibernética** — resposta a incidentes e rastreio técnico  
-- 🖥 **Sistemas Linux & DevOps** — automação, shell scripting e containers  
-- 🤖 **Inteligência Artificial & Machine Learning** — uso prático de modelos para automações inteligentes  
+- 🐢 **Desenvolvimento Back-end** — foco em performance, escalabilidade e código limpo  
+- 🐢 **Cibersegurança** — análise de vulnerabilidades, criptografia e boas práticas  
+- 🐢 **Investigação Cibernética** — resposta a incidentes e rastreio técnico  
+- 🐢 **Sistemas Linux & DevOps** — automação, shell scripting e containers  
+- 🐢 **Inteligência Artificial & Machine Learning** — uso prático de modelos para automações inteligentes  
 
 </div>
 
 ---
 
-### 🚀 **Objetivos**
+### 🎯 **Objetivos**
 
 <div align="justify">
 
-- 🔧 **Aprimorar habilidades técnicas**, dominando padrões arquiteturais modernos  
-- 💻 **Almejando Full Stack**, com sólida base no Back-end  
-- 🛠 **Aprimorando Golang** como ferramenta principal de desenvolvimento  
-- 🧠 **Explorando o desenvolvimento de sistemas inteligentes**, focando em IA útil e ética  
+- 📚 **Aprimorar habilidades técnicas**, dominando padrões arquiteturais modernos  
+- 📚 **Almejando Full Stack**, com sólida base no Back-end  
+- 📚 **Aprimorando Golang** como ferramenta principal de desenvolvimento  
+- 📚 **Explorando o desenvolvimento de sistemas inteligentes**, focando em IA útil e ética  
 
 </div>
 
