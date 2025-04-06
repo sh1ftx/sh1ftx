@@ -6,16 +6,16 @@
 
 <div align="justify">
 
-- 👨‍🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no IFPI  
-- ✝️ **Desenvolvedor cristão**, com histórico de criação de soluções voltadas a comunidades religiosas  
-- 💼 **Aberto a oportunidades** em empresas, freelancing e servidores Discord  
-- 🖥 **Entusiasta de back-end**, com interesse especial em cibersegurança e inteligência artificial  
+- 📘 **Estudante de Análise e Desenvolvimento de Sistemas** no IFPI  
+- 📗 **Aberto a oportunidades** em empresas, freelancing e servidores Discord  
+- 📙 **Entusiasta de back-end**, com interesse especial em cibersegurança e inteligência artificial
+- 📕 **Desenvolvedor cristão**, com histórico de criação de soluções voltadas a comunidades religiosas  
 
 </div>
 
 ---
 
-### 🌿 **Áreas de Interesse**
+### 🎯 **Áreas de Interesse**
 
 <div align="justify">
 
