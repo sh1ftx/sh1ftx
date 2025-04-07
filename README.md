@@ -15,7 +15,7 @@
 
 ---
 
-### 📘 **Áreas de Interesse**
+### 📗 **Áreas de Interesse**
 
 <div align="justify">
 
