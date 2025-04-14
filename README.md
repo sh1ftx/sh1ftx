@@ -44,7 +44,14 @@
   <img src="https://img.shields.io/badge/Golang-1d232e?style=for-the-badge&logo=go&logoColor=6AFFA0" />
   <img src="https://img.shields.io/badge/Python-1d232e?style=for-the-badge&logo=python&logoColor=6AFFA0" />
   <img src="https://img.shields.io/badge/C++-1d232e?style=for-the-badge&logo=c%2B%2B&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/JavaScript-1d232e?style=for-the-badge&logo=javascript&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/TypeScript-1d232e?style=for-the-badge&logo=typescript&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/React-1d232e?style=for-the-badge&logo=react&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/TensorFlow-1d232e?style=for-the-badge&logo=tensorflow&logoColor=6AFFA0" />
   <img src="https://img.shields.io/badge/Linux-1d232e?style=for-the-badge&logo=linux&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1d232e?style=for-the-badge&logo=archlinux&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Hyprland-1d232e?style=for-the-badge&logo=neovim&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=for-the-badge&logo=kalilinux&logoColor=6AFFA0" />
   <img src="https://img.shields.io/badge/Fedora-1d232e?style=for-the-badge&logo=fedora&logoColor=6AFFA0" />
   <img src="https://img.shields.io/badge/Manjaro-1d232e?style=for-the-badge&logo=manjaro&logoColor=6AFFA0" />
   <img src="https://img.shields.io/badge/Docker-1d232e?style=for-the-badge&logo=docker&logoColor=6AFFA0" />
