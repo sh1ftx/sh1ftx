@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=6AFFA0&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+👋🏻%F0%9F%8C%90" />
 </p>
 
-<h1 align="center"> Kayki Ivan </h1>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Linux%20Enthusiast-1d232e?style=flat-square&logo=linux&logoColor=6AFFA0"/>
   <img src="https://img.shields.io/badge/Full%20Stack%20in%20Progress-1d232e?style=flat-square&logo=javascript&logoColor=6AFFA0"/>
