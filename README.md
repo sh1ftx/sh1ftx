@@ -41,16 +41,16 @@
 ### Stack e Ferramentas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Golang-1d232e?style=for-the-badge&logo=go&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Python-1d232e?style=for-the-badge&logo=python&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/C++-1d232e?style=for-the-badge&logo=c%2B%2B&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Linux-1d232e?style=for-the-badge&logo=linux&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Fedora-1d232e?style=for-the-badge&logo=fedora&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Manjaro-1d232e?style=for-the-badge&logo=manjaro&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Docker-1d232e?style=for-the-badge&logo=docker&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/Bash-1d232e?style=for-the-badge&logo=gnubash&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/GitHub-1d232e?style=for-the-badge&logo=github&logoColor=6AFFA0" />
+  <img src="https://img.shields.io/badge/VSCode-1d232e?style=for-the-badge&logo=visualstudiocode&logoColor=6AFFA0" />
 </p>
 
 ---
