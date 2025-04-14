@@ -11,47 +11,47 @@
 
 ---
 
-### 🧩 **Sobre mim**
+### 🦈 **Sobre mim**
 
 <div align="justify">
 
-- 📗 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI  
-- 📗 Explorando os caminhos entre **Full Stack**, **Cybersecurity** e **Inteligência Artificial**  
-- 📗 Fã do **ecossistema Linux**, automações com Bash e ambientes otimizados para produtividade  
-- 📗 Curioso por natureza, movido pela beleza do código limpo, seguro e inteligente  
+- 🧩 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI  
+- 🧩 Explorando os caminhos entre **Full Stack**, **Cybersecurity** e **Inteligência Artificial**  
+- 🧩 Fã do **ecossistema Linux**, automações com Bash e ambientes otimizados para produtividade  
+- 🧩 Curioso por natureza, movido pela beleza do código limpo, seguro e inteligente  
 
 </div>
 
 ---
 
-### 🧩 **Áreas de Interesse**
+### 📚 **Áreas de Interesse**
 
 <div align="justify">
 
-- 📗 **Back-end Moderno** — Golang, Python, C++, microserviços  
-- 📗 **Cibersegurança** — análise de vulnerabilidades, criptografia e forense  
-- 📗 **Sistemas Linux & DevOps** — shell scripting, containers e automação  
-- 📗 **Inteligência Artificial** — modelos aplicados, IA generativa, uso ético de algoritmos  
-- 📗 **Investigação Cibernética** — rastreio técnico e resposta a incidentes  
+- 🧩 **Back-end Moderno** — Golang, Python, C++, microserviços  
+- 🧩 **Cibersegurança** — análise de vulnerabilidades, criptografia e forense  
+- 🧩 **Sistemas Linux & DevOps** — shell scripting, containers e automação  
+- 🧩 **Inteligência Artificial** — modelos aplicados, IA generativa, uso ético de algoritmos  
+- 🧩 **Investigação Cibernética** — rastreio técnico e resposta a incidentes  
 
 </div>
 
 ---
 
-### 🧩 **Objetivos Atuais**
+### 🎯 **Objetivos Atuais**
 
 <div align="justify">
 
-- 📗 Me tornar um desenvolvedor **Full Stack** com base sólida em Back-end  
-- 📗 Aprofundar meus estudos em **Golang** como ferramenta central  
-- 📗 Criar **soluções inteligentes** com foco em IA útil, ética e aplicada  
-- 📗 Solidificar práticas em **Segurança da Informação** e desenvolvimento seguro  
+- 🧩 Me tornar um desenvolvedor **Full Stack** com base sólida em Back-end  
+- 🧩 Aprofundar meus estudos em **Golang** como ferramenta central  
+- 🧩 Criar **soluções inteligentes** com foco em IA útil, ética e aplicada  
+- 🧩 Solidificar práticas em **Segurança da Informação** e desenvolvimento seguro  
 
 </div>
 
 ---
 
-### 🧩 **Tech Stack & Ferramentas**
+### 🛠️ **Tech Stack & Ferramentas**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/>
@@ -70,7 +70,7 @@
 
 ---
 
-### 🧩 **Contato**
+### 📌 **Contato**
 
 <p align="center">
   <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-1d232e?style=for-the-badge&logo=gmail&logoColor=6AFFA0"></a>
@@ -81,7 +81,7 @@
 
 ---
 
-### 📗 **Estatísticas**
+### 🫟 **Estatísticas**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6AFFA0&text_color=FFFFFF" alt="Top Languages"/>
