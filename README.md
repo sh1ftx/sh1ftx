@@ -1,65 +1,72 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+👋🏻" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6AFFA0&size=35&center=true&vCenter=true&width=1000&lines=Hey+Guys!+👋🏻%F0%9F%8C%90" />
 </p>
 
-## **Kayki Ivan**
+<h1 align="center"> Kayki Ivan </h1>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux%20Enthusiast-1d232e?style=flat-square&logo=linux&logoColor=6AFFA0"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20in%20Progress-1d232e?style=flat-square&logo=javascript&logoColor=6AFFA0"/>
+  <img src="https://img.shields.io/badge/Cyber%20Security%20Focus-1d232e?style=flat-square&logo=hackthebox&logoColor=6AFFA0"/>
+</div>
+
+---
+
+### 🧠 **Sobre mim**
 
 <div align="justify">
 
-- 🌀 **Estudante de Análise e Desenvolvimento de Sistemas** no IFPI  
-- 🌀 **Aberto a oportunidades** em empresas, freelancing e servidores Discord  
-- 🌀 **Entusiasta de back-end**, com interesse especial em cibersegurança e inteligência artificial
-- 🌀 **Desenvolvedor cristão**, com histórico de criação de soluções voltadas a comunidades religiosas  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI  
+- 🧩 Explorando os caminhos entre **Full Stack**, **Cybersecurity** e **Inteligência Artificial**  
+- 🖥️ Fã do **ecossistema Linux**, automações com Bash e ambientes otimizados para produtividade  
+- 🔬 Curioso por natureza, movido pela beleza do código limpo, seguro e inteligente
 
 </div>
 
 ---
 
-### 📗 **Áreas de Interesse**
+### 🚀 **Áreas de Interesse**
 
 <div align="justify">
 
-- 🐢 **Desenvolvimento Back-end** — foco em performance, escalabilidade e código limpo  
-- 🐢 **Cibersegurança** — análise de vulnerabilidades, criptografia e boas práticas  
-- 🐢 **Investigação Cibernética** — resposta a incidentes e rastreio técnico  
-- 🐢 **Sistemas Linux & DevOps** — automação, shell scripting e containers  
-- 🐢 **Inteligência Artificial & Machine Learning** — uso prático de modelos para automações inteligentes  
+- ✳️ **Back-end Moderno** — Golang, Python, C++, microserviços  
+- ✳️ **Cibersegurança** — análise de vulnerabilidades, criptografia e forense  
+- ✳️ **Sistemas Linux & DevOps** — shell scripting, containers e automação  
+- ✳️ **Inteligência Artificial** — modelos aplicados, IA generativa, uso ético de algoritmos  
+- ✳️ **Investigação Cibernética** — rastreio técnico e resposta a incidentes  
 
 </div>
 
 ---
 
-### 🎯 **Objetivos**
+### 🎯 **Objetivos Atuais**
 
 <div align="justify">
 
-- 📌 **Aprimorar habilidades técnicas**, dominando padrões arquiteturais modernos  
-- 📌 **Almejando Full Stack**, com sólida base no Back-end  
-- 📌 **Aprimorando Golang** como ferramenta principal de desenvolvimento  
-- 📌 **Explorando o desenvolvimento de sistemas inteligentes**, focando em IA útil e ética  
+- 🌱 Me tornar um desenvolvedor **Full Stack** com base sólida em Back-end  
+- ⚙️ Aprofundar meus estudos em **Golang** como ferramenta central  
+- 🤖 Criar **soluções inteligentes** com foco em IA útil, ética e aplicada  
+- 🔐 Solidificar práticas em **Segurança da Informação** e desenvolvimento seguro  
 
 </div>
 
 ---
 
-### 🛠 **Tech Stack**
+### 🛠 **Tech Stack & Ferramentas**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="Manjaro" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg" alt="Manjaro" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubuntu" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40"/>
 </p>
 
 ---
@@ -67,10 +74,9 @@
 ### 📬 **Contato**
 
 <p align="center">
-  <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-%231d232e?style=for-the-badge&logo=twitch&logoColor=white"></a>
-  <a href="https://discord.gg/Geracao144k" target="_blank"><img src="https://img.shields.io/badge/Discord-%231d232e?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-%231d232e?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231d232e?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-1d232e?style=for-the-badge&logo=gmail&logoColor=6AFFA0"></a>
+  <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1d232e?style=for-the-badge&logo=linkedin&logoColor=6AFFA0"></a>
+  <a href="https://www.twitch.tv/sh1ft7172" target="_blank"><img src="https://img.shields.io/badge/Twitch-1d232e?style=for-the-badge&logo=twitch&logoColor=6AFFA0"></a>
 </p>
 
 ---
@@ -78,7 +84,7 @@
 ### 📊 **Estatísticas**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6AFFA0&text_color=FFFFFF" alt="Top Languages"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" alt="GitHub Stats"/>
 </p>
