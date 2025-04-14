@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6AFFA0&size=35&center=true&vCenter=true&width=1000&lines=Fala,+devs+...
-   " />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6AFFA0&size=35&center=true&vCenter=true&width=1000&lines=Fala,+devs..." />
 </p>
 
 <div align="center">
