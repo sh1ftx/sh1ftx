@@ -1,6 +1,6 @@
 <!-- Imagem no cantinho direito -->
-<div align="right">
-  <img src="https://github.com/sh1ftx/sh1ftx/assets/123456789/abcdef12-3456-7890-abcd-1234567890ab" width="180" alt="Ilustração dev estilizada" />
+<div align="right" >
+  ![image](https://github.com/user-attachments/assets/4ab65bdc-312b-41ce-88e1-54ea3ad0d736)
 </div>
 
 <p align="center">
