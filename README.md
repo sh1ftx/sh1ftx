@@ -9,6 +9,7 @@
 </div>
 
 ---
+![image](https://github.com/user-attachments/assets/f90151dc-9d20-48f1-96f9-154205d2e615)
 
 ### Quem sou
 
