@@ -1,8 +1,3 @@
-<!-- Imagem no cantinho direito -->
-<div align="right" >
-  ![image](https://github.com/user-attachments/assets/4ab65bdc-312b-41ce-88e1-54ea3ad0d736)
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=6AFFA0&size=35&center=true&vCenter=true&width=1000&lines=Fala,+devs..." />
 </p>
