@@ -1,3 +1,8 @@
+<!-- Imagem no cantinho direito -->
+<div align="right">
+  <img src="https://github.com/sh1ftx/sh1ftx/assets/123456789/abcdef12-3456-7890-abcd-1234567890ab" width="180" alt="Ilustração dev estilizada" />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=6AFFA0&size=35&center=true&vCenter=true&width=1000&lines=Fala,+devs..." />
 </p>
@@ -9,7 +14,6 @@
 </div>
 
 ---
-![image](https://github.com/user-attachments/assets/f90151dc-9d20-48f1-96f9-154205d2e615)
 
 ### Quem sou
 
