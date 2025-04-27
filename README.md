@@ -10,6 +10,14 @@
 
 ---
 
+### GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" />
+</p>
+
+---
+
 ### Quem sou
 
 - Estudante de **ADS (IFPI)**  
@@ -35,14 +43,6 @@
 - Dominar **Golang** como stack principal  
 - Criar ferramentas com **IA real e útil**  
 - Escrever código **seguro, performático e escalável**
-
----
-
-### GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" />
-</p>
 
 ---
 
