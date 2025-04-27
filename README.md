@@ -10,14 +10,6 @@
 
 ---
 
-### GitHub
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" />
-</p>
-
----
-
 ### Quem sou
 
 - Estudante de **ADS (IFPI)**  
@@ -79,3 +71,10 @@
   <a href="https://discord.gg/sua-url-aqui"><img src="https://img.shields.io/badge/Discord-1d232e?style=for-the-badge&logo=discord&logoColor=6AFFA0"></a>
 </p>
 
+---
+
+### GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" />
+</p>
