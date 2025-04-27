@@ -75,8 +75,5 @@
 
 ### GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6AFFA0&text_color=FFFFFF" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" />
+<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" />
 </p>
