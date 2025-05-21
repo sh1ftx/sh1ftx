@@ -78,3 +78,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6AFFA0&icon_color=6AFFA0" />
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VINYCIU51&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=00000000" height="180" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VINYCIU51&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=00000000" height="180" alt="languages graph"  />
+</div>
+
