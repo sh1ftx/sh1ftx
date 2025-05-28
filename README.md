@@ -4,14 +4,6 @@
 
 ---
 
-<br>
-
-<div align="center">
-  <a href="https://discord.com/users/1161279495723036672"><img src="https://lanyard.kyrie25.dev/api/1161279495723036672?imgStyle=square" /></a>
-</div>
-
----
-
 ## Sobre mim
 
 - Estudante de Análise e Desenvolvimento de Sistemas (IFPI)  
