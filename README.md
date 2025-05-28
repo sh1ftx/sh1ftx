@@ -31,46 +31,36 @@
 
 ### Ferramentas e Tecnologias
 
-#### Back-end & Dev
 <p align="center">
+  <!-- Linguagens principais -->
   <img src="https://img.shields.io/badge/Golang-1d232e?style=for-the-badge&logo=go&logoColor=475437" />
   <img src="https://img.shields.io/badge/Python-1d232e?style=for-the-badge&logo=python&logoColor=475437" />
   <img src="https://img.shields.io/badge/C++-1d232e?style=for-the-badge&logo=c%2B%2B&logoColor=475437" />
   <img src="https://img.shields.io/badge/JavaScript-1d232e?style=for-the-badge&logo=javascript&logoColor=475437" />
   <img src="https://img.shields.io/badge/TypeScript-1d232e?style=for-the-badge&logo=typescript&logoColor=475437" />
-  <img src="https://img.shields.io/badge/Node.js-1d232e?style=for-the-badge&logo=nodedotjs&logoColor=475437" />
-</p>
 
-#### Inteligência Artificial
-<p align="center">
+  <!-- Frameworks e ferramentas de front-end -->
+  <img src="https://img.shields.io/badge/React-1d232e?style=for-the-badge&logo=react&logoColor=475437" />
+
+  <!-- Inteligência Artificial -->
   <img src="https://img.shields.io/badge/TensorFlow-1d232e?style=for-the-badge&logo=tensorflow&logoColor=475437" />
-  <img src="https://img.shields.io/badge/OpenAI%20GPT-1d232e?style=for-the-badge&logo=openai&logoColor=475437" />
   <img src="https://img.shields.io/badge/Gemini-1d232e?style=for-the-badge&logo=google&logoColor=475437" />
-</p>
 
-#### Ferramentas de Desenvolvimento
-<p align="center">
-  <img src="https://img.shields.io/badge/Neovim-1d232e?style=for-the-badge&logo=neovim&logoColor=475437" />
-  <img src="https://img.shields.io/badge/VSCode-1d232e?style=for-the-badge&logo=visualstudiocode&logoColor=475437" />
-  <img src="https://img.shields.io/badge/GitHub-1d232e?style=for-the-badge&logo=github&logoColor=475437" />
-  <img src="https://img.shields.io/badge/Docker-1d232e?style=for-the-badge&logo=docker&logoColor=475437" />
-  <img src="https://img.shields.io/badge/Bash-1d232e?style=for-the-badge&logo=gnubash&logoColor=475437" />
-</p>
-
-#### Produtividade & Organização
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-1d232e?style=for-the-badge&logo=notion&logoColor=475437" />
-  <img src="https://img.shields.io/badge/Trello-1d232e?style=for-the-badge&logo=trello&logoColor=475437" />
-</p>
-
-#### Distros & Ambiente
-<p align="center">
+  <!-- Sistemas operacionais e ambientes -->
   <img src="https://img.shields.io/badge/Linux-1d232e?style=for-the-badge&logo=linux&logoColor=475437" />
   <img src="https://img.shields.io/badge/Arch%20Linux-1d232e?style=for-the-badge&logo=archlinux&logoColor=475437" />
+  <img src="https://img.shields.io/badge/Hyprland-1d232e?style=for-the-badge&logo=neovim&logoColor=475437" />
   <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=for-the-badge&logo=kalilinux&logoColor=475437" />
-  <img src="https://img.shields.io/badge/Manjaro-1d232e?style=for-the-badge&logo=manjaro&logoColor=475437" />
   <img src="https://img.shields.io/badge/Fedora-1d232e?style=for-the-badge&logo=fedora&logoColor=475437" />
-  <img src="https://img.shields.io/badge/Hyprland-1d232e?style=for-the-badge&logo=wayland&logoColor=475437" />
+  <img src="https://img.shields.io/badge/Manjaro-1d232e?style=for-the-badge&logo=manjaro&logoColor=475437" />
+
+  <!-- DevOps, automação e produtividade -->
+  <img src="https://img.shields.io/badge/Docker-1d232e?style=for-the-badge&logo=docker&logoColor=475437" />
+  <img src="https://img.shields.io/badge/Bash-1d232e?style=for-the-badge&logo=gnubash&logoColor=475437" />
+  <img src="https://img.shields.io/badge/GitHub-1d232e?style=for-the-badge&logo=github&logoColor=475437" />
+  <img src="https://img.shields.io/badge/VSCode-1d232e?style=for-the-badge&logo=visualstudiocode&logoColor=475437" />
+  <img src="https://img.shields.io/badge/Neovim-1d232e?style=for-the-badge&logo=neovim&logoColor=475437" />
+  <img src="https://img.shields.io/badge/Notion-1d232e?style=for-the-badge&logo=notion&logoColor=475437" />
 </p>
 
 ---
