@@ -4,17 +4,10 @@
 
 ---
 
-<div align="center">
-  <h6>click the rrat</h6>
-  <a href="https://github.com/sh1ftx">
-    <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" height="180px" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
-  <a href="https://discord.com/users/1161279495723036672"><img src="https://lanyard.kyrie25.dev/api/SEU_ID_AQUI?imgStyle=square" /></a>
+  <a href="https://discord.com/users/1161279495723036672"><img src="https://lanyard.kyrie25.dev/api/1161279495723036672?imgStyle=square" /></a>
 </div>
 
 ---
