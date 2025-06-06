@@ -79,8 +79,9 @@
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6f8f5f&icon_color=6f8f5f" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh1ftx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=00000000&title_color=6f8f5f" height="180" />
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6f8f5f&icon_color=6f8f5f" />
+</div>
+
