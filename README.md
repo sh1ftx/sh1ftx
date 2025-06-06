@@ -79,9 +79,6 @@
 ### GitHub
 
 <div align="center">
-
-<!-- Gráficos com tema escuro + verde musgo -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh1ftx&theme=github_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh1ftx&theme=github_dark" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh1ftx&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6f8f5f&icon_color=6f8f5f" />
 </div>
