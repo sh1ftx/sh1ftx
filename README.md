@@ -79,9 +79,13 @@
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh1ftx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=1&custom_title=GitHub%20Stats&bg_color=00000000&title_color=6f8f5f" height="180" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6f8f5f&icon_color=6f8f5f" />
-</div>
 
+<!-- Gráficos com tema escuro + verde musgo -->
+<img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6f8f5f&icon_color=6f8f5f" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh1ftx&layout=compact&theme=tokyonight&hide_border=true&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f" />
+<br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh1ftx&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh1ftx&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sh1ftx&theme=github_dark" />
+</div>
