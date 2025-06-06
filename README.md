@@ -83,3 +83,13 @@
 <br>  
 <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&count_private=true&title_color=6f8f5f&icon_color=6f8f5f" />
 </div>
+
+---
+
+### Discord Status
+
+<div align="center">
+  <a href="https://discord.com/users/1161279495723036672">
+    <img src="https://lanyard.cnrad.dev/api/1161279495723036672?bg=1d232e&borderRadius=8px&idleMessage=Offline%20no%20momento.&hideDiscriminators=true&theme=dark&accent=6f8f5f" />
+  </a>
+</div>
