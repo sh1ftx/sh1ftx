@@ -83,12 +83,12 @@
   <!-- Topo da pirâmide: Linguagens mais utilizadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
 
-  <br/><br/>
+<br/>
 
   <!-- Meio da pirâmide: Estatísticas gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
 
-  <br/><br/>
+<br/>
 
   <!-- Base da pirâmide: Detalhes do perfil -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh1ftx&theme=github_dark" />
