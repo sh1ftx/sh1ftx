@@ -6,12 +6,10 @@
   <img src="https://img.shields.io/badge/Linux%20User-1d232e?style=flat-square&logo=linux&logoColor=6f8f5f"/>
   <img src="https://img.shields.io/badge/Full%20Stack%20em%20andamento-1d232e?style=flat-square&logo=javascript&logoColor=6f8f5f"/>
   <img src="https://img.shields.io/badge/Cybersegurança-1d232e?style=flat-square&logo=hackthebox&logoColor=6f8f5f"/>
-  <p align="center">
   <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-1d232e?style=for-the-badge&logo=gmail&logoColor=6f8f5f"></a>
   <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/"><img src="https://img.shields.io/badge/LinkedIn-1d232e?style=for-the-badge&logo=linkedin&logoColor=6f8f5f"></a>
   <a href="https://www.twitch.tv/sh1ft7172"><img src="https://img.shields.io/badge/Twitch-1d232e?style=for-the-badge&logo=twitch&logoColor=6f8f5f"></a>
   <a href="https://discord.gg/sua-url-aqui"><img src="https://img.shields.io/badge/Discord-1d232e?style=for-the-badge&logo=discord&logoColor=6f8f5f"></a>
-</p>
 </div>
 
 ---
