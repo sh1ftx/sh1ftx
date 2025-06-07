@@ -17,9 +17,6 @@
 - Usuário Linux raiz: terminal, automação, desempenho  
 - Código limpo, funcional e seguro — sem firula
 
----
-
-### Contato
 
 <div align="center">
   <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-1d232e?style=for-the-badge&logo=gmail&logoColor=6f8f5f"></a>
