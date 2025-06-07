@@ -74,23 +74,21 @@
   <a href="https://discord.gg/sua-url-aqui"><img src="https://img.shields.io/badge/Discord-1d232e?style=for-the-badge&logo=discord&logoColor=6f8f5f"></a>
 </p>
 
----
-
 ### Estatísticas do GitHub
 
 <div align="center">
 
-  <!-- Topo da pirâmide: Linguagens mais utilizadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
+  <!-- 🔼 Topo da pirâmide: Detalhes do perfil -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh1ftx&theme=github_dark" />
 
-<br/>
+  <br/>
 
-  <!-- Meio da pirâmide: Estatísticas gerais -->
+  <!-- 🟩 Meio da pirâmide: Estatísticas gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
 
-<br/>
+  <br/>
 
-  <!-- Base da pirâmide: Detalhes do perfil -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh1ftx&theme=github_dark" />
+  <!-- 🔻 Base da pirâmide: Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
 
 </div>
