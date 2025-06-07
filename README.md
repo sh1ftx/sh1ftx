@@ -68,7 +68,7 @@
 ### Estatísticas do GitHub
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh1ftx&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sh1ftx&theme=github_dark_green" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
   <br/>
