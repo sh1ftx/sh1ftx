@@ -74,14 +74,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
 </div>
-
----
-
-### Contato
-
-<div align="center">
-  <a href="mailto:ivankayki72@gmail.com"><img src="https://img.shields.io/badge/Gmail-1d232e?style=for-the-badge&logo=gmail&logoColor=6f8f5f"></a>
-  <a href="https://www.linkedin.com/in/kayki-de-sousa-5a33292b3/"><img src="https://img.shields.io/badge/LinkedIn-1d232e?style=for-the-badge&logo=linkedin&logoColor=6f8f5f"></a>
-  <a href="https://www.twitch.tv/sh1ft7172"><img src="https://img.shields.io/badge/Twitch-1d232e?style=for-the-badge&logo=twitch&logoColor=6f8f5f"></a>
-  <a href="https://discord.gg/sua-url-aqui"><img src="https://img.shields.io/badge/Discord-1d232e?style=for-the-badge&logo=discord&logoColor=6f8f5f"></a>
-</div>
