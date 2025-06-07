@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6f8f5f&size=35&center=true&vCenter=true&width=1000&lines=FALA+DEVs..." />
+</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux%20User-1d232e?style=flat-square&logo=linux&logoColor=6f8f5f"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20em%20andamento-1d232e?style=flat-square&logo=javascript&logoColor=6f8f5f"/>
+  <img src="https://img.shields.io/badge/Cybersegurança-1d232e?style=flat-square&logo=hackthebox&logoColor=6f8f5f"/>
+</div>
+
+---
+
 ### Quem sou
 
 - Estudante de **ADS (IFPI)**  
