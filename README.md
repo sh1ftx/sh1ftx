@@ -74,17 +74,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=6f8f5f&text_color=6f8f5f&icon_color=6f8f5f&bg_color=00000000" />
 </div>
-
----
-
-### Presença Online
-
-<div align="center">
-  <a href="https://discord.com/users/1161279495723036672">
-    <img src="https://lanyard.kyrie25.dev/api/1161279495723036672?imgStyle=square" />
-  </a>
-  <br/>
-  <a href="https://last.fm/user/sh1ft.x">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=sh1ft.x&count=3" height=200 />
-  </a>
-</div>
