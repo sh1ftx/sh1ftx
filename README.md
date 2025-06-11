@@ -10,7 +10,7 @@
 
 ---
 
-### Sobre
+### Sobre Mim
 
 - Estudante de Análise e Desenvolvimento de Sistemas (IFPI)  
 - Foco em back-end, cybersegurança e IA aplicada  
