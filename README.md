@@ -1,11 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+GUYS..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+DEV..." />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux%20User-1d232e?style=flat-square&logo=linux&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Back-end%20Low%20Level-1d232e?style=flat-square&logo=c&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-1d232e?style=flat-square&logo=tensorflow&logoColor=cba6f7"/>
+  <img src="https://img.shields.io/badge/Terminal%20Life-1d232e?style=flat-square&logo=gnubash&logoColor=cba6f7"/>
 </p>
 
 ---
@@ -13,18 +14,19 @@
 ### Sobre Mim
 
 - Estudante de ADS (IFPI)  
-- Foco em back-end de baixo nível, IA e dados  
-- Linux user com produtividade via terminal, automações e scripts  
-- Desenvolvimento limpo, funcional e com viés prático  
+- Foco em back-end de baixo nível, IA aplicada e dados  
+- Usuário Linux, viciado em terminal, automações e shell  
+- Desenvolvimento prático, seguro e com obsessão por performance  
 
 ---
 
 ### Interesses
 
-- Back-end com C, C++, Golang e Assembly  
-- Machine Learning e Ciência de Dados com Python  
-- Arquiteturas enxutas, performance, segurança e análise de padrões  
-- Estruturas de dados, algoritmos e sistemas Linux otimizados  
+- Back-end com Assembly, C, C++, Golang  
+- Machine Learning com Python e bibliotecas científicas  
+- Análise de dados, padrões e algoritmos eficientes  
+- Performance de sistemas, devtools, shell e infraestrutura Linux  
+- Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados  
 
 ---
 
@@ -41,12 +43,16 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-1d232e?style=for-the-badge&logo=scikitlearn&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/TensorFlow-1d232e?style=for-the-badge&logo=tensorflow&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Jupyter-1d232e?style=for-the-badge&logo=jupyter&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Shell%20Script-1d232e?style=for-the-badge&logo=gnubash&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Bash-1d232e?style=for-the-badge&logo=gnubash&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Neovim-1d232e?style=for-the-badge&logo=neovim&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Tmux-1d232e?style=for-the-badge&logo=tmux&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Systemd-1d232e?style=for-the-badge&logo=systemd&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Linux-1d232e?style=for-the-badge&logo=linux&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Arch-1d232e?style=for-the-badge&logo=archlinux&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Manjaro-1d232e?style=for-the-badge&logo=manjaro&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Fedora-1d232e?style=for-the-badge&logo=fedora&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Hyprland-1d232e?style=for-the-badge&logo=neovim&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/Neovim-1d232e?style=for-the-badge&logo=neovim&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/Bash-1d232e?style=for-the-badge&logo=gnubash&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/Tmux-1d232e?style=for-the-badge&logo=tmux&logoColor=cba6f7" />
 </p>
 
 ---
