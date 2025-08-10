@@ -5,10 +5,6 @@
 <p align="center" style="margin-top: 10px;">
   <strong>0% UI, 100% performance</strong>
 </p>
-<p align="center" style="margin-top: 10px; font-style: italic;">
-  Obsessed enough to outwork the talented, or crazy enough to lose my mind trying.<br/>
-</p>
-
 <p align="center" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/Linux%20User-1d232e?style=flat-square&logo=linux&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-1d232e?style=flat-square&logo=tensorflow&logoColor=cba6f7"/>
