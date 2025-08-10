@@ -1,4 +1,4 @@
-<p align="center">
+# <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+GUYS..." />
 </p>
 
