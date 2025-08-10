@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://discord.com/users/1161279495723036672"><img src="https://lanyard.kyrie25.dev/api/368399721494216706?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" /></a>
+<a href="https://discord.com/users/1161279495723036672"><img src="https://lanyard.sh1ft.x.dev/api/1161279495723036672?showBanner=true&bannerFilter=brightness(0.6)&imgStyle=square" /></a>
 
 ### Sobre Mim
 - Estudante de ADS (IFPI)  
