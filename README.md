@@ -4,11 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux%20User-1d232e?style=flat-square&logo=linux&logoColor=cba6f7"/>
-  <img src="https://img.shields.io/badge/Back-end%20Low%20Level-1d232e?style=flat-square&logo=c&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-1d232e?style=flat-square&logo=tensorflow&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Terminal%20Life-1d232e?style=flat-square&logo=gnubash&logoColor=cba6f7"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-1d232e?style=flat-square&logo=raspberrypi&logoColor=cba6f7"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=flat-square&logo=kalilinux&logoColor=cba6f7"/>
 </p>
 
 ---
