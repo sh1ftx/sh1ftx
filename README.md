@@ -6,7 +6,7 @@
   <strong>0% UI, 100% performance</strong>
 </p>
 <p align="center" style="margin-top: 10px; font-style: italic;">
-  Driven enough to win — or crazy enough to break trying.<br/>
+  Obsessed enough to outwork the talented, or crazy enough to lose my mind trying.<br/>
 </p>
 
 <p align="center" style="margin-top: 15px;">
