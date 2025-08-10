@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+DEV..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+GUYS..." />
 </p>
 
 <p align="center">
@@ -7,12 +7,13 @@
   <img src="https://img.shields.io/badge/Back-end%20Low%20Level-1d232e?style=flat-square&logo=c&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-1d232e?style=flat-square&logo=tensorflow&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Terminal%20Life-1d232e?style=flat-square&logo=gnubash&logoColor=cba6f7"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-1d232e?style=flat-square&logo=raspberrypi&logoColor=cba6f7"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=flat-square&logo=kalilinux&logoColor=cba6f7"/>
 </p>
 
 ---
 
 ### Sobre Mim
-
 - Estudante de ADS (IFPI)  
 - Foco em back-end de baixo nível, IA aplicada e dados  
 - Usuário Linux, viciado em terminal, automações e shell  
@@ -21,17 +22,15 @@
 ---
 
 ### Interesses
-
 - Back-end com Assembly, C, C++, Golang  
 - Machine Learning com Python e bibliotecas científicas  
 - Análise de dados, padrões e algoritmos eficientes  
-- Performance de sistemas, devtools, shell e infraestrutura Linux  
+- Performance de sistemas, devtools e infraestrutura Linux  
 - Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados  
 
 ---
 
 ### Ferramentas e Tecnologias
-
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-1d232e?style=for-the-badge&logo=gnuemacs&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/C-1d232e?style=for-the-badge&logo=c&logoColor=cba6f7" />
@@ -53,12 +52,13 @@
   <img src="https://img.shields.io/badge/Manjaro-1d232e?style=for-the-badge&logo=manjaro&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Fedora-1d232e?style=for-the-badge&logo=fedora&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Hyprland-1d232e?style=for-the-badge&logo=neovim&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-1d232e?style=for-the-badge&logo=raspberrypi&logoColor=cba6f7" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=for-the-badge&logo=kalilinux&logoColor=cba6f7" />
 </p>
 
 ---
 
 ### GitHub Stats
-
 <div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
