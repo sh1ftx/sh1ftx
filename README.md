@@ -7,7 +7,6 @@
 </p>
 <p align="center" style="margin-top: 10px; font-style: italic;">
   Driven enough to win — or crazy enough to break trying.<br/>
- // <small>Never underestimate a mere human.</small>
 </p>
 
 <p align="center" style="margin-top: 15px;">
