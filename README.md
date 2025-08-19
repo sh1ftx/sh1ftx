@@ -68,17 +68,21 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=for-the-badge&logo=kalilinux&logoColor=cba6f7" />
 </p>
 
----
-
-### GitHub Stats
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
-</div>
+--- 
 
 <!-- GIF final -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif" width="300" style="border-radius: 10px;" />
 </p>
+
+
+---
+
+### GitHub Stats
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
+</div>
+
