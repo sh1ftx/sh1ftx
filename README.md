@@ -16,17 +16,17 @@
 <section id="sobre-mim" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
   <!-- Coluna da Imagem -->
   <div style="flex: 1; text-align: center;">
-    <img src="IMAGEM.png" alt="Minha foto" style="max-width: 100%; border-radius: 10px;">
+    <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />
   </div>
 
   <!-- Coluna das Informações -->
   <div style="flex: 2;">
-    <h2>Sobre Mim</h2>
-    <ul style="list-style: none; padding: 0; margin: 0;">
-      <li><strong>Nome:</strong> João da Silva</li>
-      <li><strong>Idade:</strong> 25 anos</li>
-      <li><strong>Profissão:</strong> Desenvolvedor</li>
-      <li><strong>Hobbies:</strong> Música, programação, viagens</li>
+    <h3>Sobre Mim</h3>
+    <ul>
+      <li>Estudante de ADS (IFPI)</li>
+      <li>Foco em back-end de baixo nível, IA aplicada e dados</li>
+      <li>Usuário Linux, viciado em terminal, automações e shell</li>
+      <li>Desenvolvimento prático, seguro e com obsessão por performance</li>
     </ul>
   </div>
 </section>
