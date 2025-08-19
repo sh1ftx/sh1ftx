@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Terminal%20Life-1d232e?style=flat-square&logo=gnubash&logoColor=cba6f7"/>
 </p>
 
+<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" />
+
 ---
 
 ### Sobre Mim
