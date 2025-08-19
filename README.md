@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="https://i.pinimg.com/originals/1f/5f/c8/1f5fc87ca5c5bd6355ea647094968051.gif" width="150" style="border-radius: 10px; margin-top: 15px;" />
+  <img src="https://i.pinimg.com/originals/99/ee/92/99ee923212b0aa54ea03c6717baccf39.gif" width="300" style="border-radius: 10px;" />
 </p>
 
 <p align="center" style="margin-top: 10px;">
@@ -40,11 +40,6 @@
 - Análise de dados, padrões e algoritmos eficientes  
 - Performance de sistemas, devtools e infraestrutura Linux  
 - Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados  
-
-<!-- GIF entre Interesses e Ferramentas -->
-<p align="center" style="margin: 20px 0;">
-  <img src="https://i.pinimg.com/originals/99/ee/92/99ee923212b0aa54ea03c6717baccf39.gif" width="300" style="border-radius: 10px;" />
-</p>
 
 ---
 
