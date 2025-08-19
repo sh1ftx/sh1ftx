@@ -78,3 +78,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
 </div>
+
+---
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="250" style="border-radius: 10px;" />
+</p>
+
