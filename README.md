@@ -1,6 +1,5 @@
 # <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-1d232e?style=flat-square&logo=tensorflow&logoColor=cba6f7"/>
- <!-- <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+GUYS..." /> -->
+  <img src="https://i.pinimg.com/originals/1f/5f/c8/1f5fc87ca5c5bd6355ea647094968051.gif" width="150" style="border-radius: 10px; margin-top: 15px;" />
 </p>
 
 <p align="center" style="margin-top: 10px;">
@@ -9,6 +8,8 @@
 
 <p align="center" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/Linux%20User-1d232e?style=flat-square&logo=linux&logoColor=cba6f7"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1d232e?style=flat-square&logo=tensorflow&logoColor=cba6f7"/>
+  <img src="https://img.shields.io/badge/Terminal%20Life-1d232e?style=flat-square&logo=gnubash&logoColor=cba6f7"/>
 </p>
 
 ---
@@ -16,12 +17,9 @@
 <section id="sobre-mim" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
   <!-- Coluna da Imagem -->
   <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />     
-    <img src="https://i.pinimg.com/originals/99/ee/92/99ee923212b0aa54ea03c6717baccf39.gif" width="300" style="border-radius: 10px;" />
-    <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />     
-    
+    <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />
   </div>
-  
+
   <!-- Coluna das Informações -->
   <div style="flex: 2;">
     <h3>Sobre Mim</h3>
@@ -42,6 +40,11 @@
 - Análise de dados, padrões e algoritmos eficientes  
 - Performance de sistemas, devtools e infraestrutura Linux  
 - Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados  
+
+<!-- GIF entre Interesses e Ferramentas -->
+<p align="center" style="margin: 20px 0;">
+  <img src="https://i.pinimg.com/originals/99/ee/92/99ee923212b0aa54ea03c6717baccf39.gif" width="300" style="border-radius: 10px;" />
+</p>
 
 ---
 
