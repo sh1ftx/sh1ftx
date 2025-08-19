@@ -38,7 +38,15 @@
 - Machine Learning com Python e bibliotecas científicas  
 - Análise de dados, padrões e algoritmos eficientes  
 - Performance de sistemas, devtools e infraestrutura Linux  
-- Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados  
+- Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados
+
+--- 
+
+<!-- GIF final -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif" width="300" style="border-radius: 10px;" />
+</p>
+
 
 ---
 
@@ -67,14 +75,6 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-1d232e?style=for-the-badge&logo=raspberrypi&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=for-the-badge&logo=kalilinux&logoColor=cba6f7" />
 </p>
-
---- 
-
-<!-- GIF final -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif" width="300" style="border-radius: 10px;" />
-</p>
-
 
 ---
 
