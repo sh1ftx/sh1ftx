@@ -13,11 +13,18 @@
 
 ---
 
-### Sobre Mim
-- Estudante de ADS (IFPI)  
-- Foco em back-end de baixo nível, IA aplicada e dados  
-- Usuário Linux, viciado em terminal, automações e shell  
-- Desenvolvimento prático, seguro e com obsessão por performance  
+<div style="display: flex; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="220" style="margin-right: 20px; border-radius: 10px;" />
+  <div>
+    <h3>Sobre Mim</h3>
+    <ul>
+      <li>Estudante de ADS (IFPI)</li>
+      <li>Foco em back-end de baixo nível, IA aplicada e dados</li>
+      <li>Usuário Linux, viciado em terminal, automações e shell</li>
+      <li>Desenvolvimento prático, seguro e com obsessão por performance</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -65,11 +72,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
 </div>
-
----
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" />
-</p>
-
----
