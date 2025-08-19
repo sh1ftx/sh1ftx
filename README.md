@@ -11,10 +11,6 @@
   <img src="https://img.shields.io/badge/Terminal%20Life-1d232e?style=flat-square&logo=gnubash&logoColor=cba6f7"/>
 </p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" />
-</p>
-
 ---
 
 ### Sobre Mim
@@ -58,6 +54,12 @@
   <img src="https://img.shields.io/badge/Hyprland-1d232e?style=for-the-badge&logo=neovim&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-1d232e?style=for-the-badge&logo=raspberrypi&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Kali%20Linux-1d232e?style=for-the-badge&logo=kalilinux&logoColor=cba6f7" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" />
 </p>
 
 ---
