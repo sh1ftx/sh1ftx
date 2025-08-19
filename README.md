@@ -33,20 +33,20 @@
 
 ---
 
-### Interesses
-- Back-end com Assembly, C, C++, Golang  
-- Machine Learning com Python e bibliotecas científicas  
-- Análise de dados, padrões e algoritmos eficientes  
-- Performance de sistemas, devtools e infraestrutura Linux  
-- Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados
-
---- 
-
-<!-- GIF final -->
-<p align="center">
+<section id="interesses" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
+ <div style="flex: 1; text-align: center;">
   <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif" width="300" style="border-radius: 10px;" />
-</p>
-
+ </div>
+ 
+  <div style="flex: 2;">
+    ### Interesses
+    - Back-end com Assembly, C, C++, Golang  
+    - Machine Learning com Python e bibliotecas científicas  
+    - Análise de dados, padrões e algoritmos eficientes  
+    - Performance de sistemas, devtools e infraestrutura Linux  
+    - Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados
+  </div>
+</section>
 
 ---
 
