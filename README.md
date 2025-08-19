@@ -18,12 +18,11 @@
   <!-- Coluna da Imagem -->
   <div style="flex: 1; text-align: center;">
     <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />
-    
-  <!-- GIF entre Interesses e Ferramentas -->
-<p align="center" style="margin: 20px 0;">
-  <img src="https://i.pinimg.com/originals/99/ee/92/99ee923212b0aa54ea03c6717baccf39.gif" width="300" style="border-radius: 10px;" />
-</p>
-
+    <p align="center" style="margin: 20px 0;">
+     <img src="https://i.pinimg.com/originals/99/ee/92/99ee923212b0aa54ea03c6717baccf39.gif" width="300" style="border-radius: 10px;" />
+    </p>
+  </div>
+  
   <!-- Coluna das Informações -->
   <div style="flex: 2;">
     <h3>Sobre Mim</h3>
