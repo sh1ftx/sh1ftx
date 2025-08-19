@@ -13,36 +13,36 @@
 
 ---
 
-<section id="sobre-mim" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
-  <!-- Coluna da Imagem -->
+<section id="about-me" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
+  <!-- Image Column -->
   <div style="flex: 1; text-align: center;">
     <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />
   </div>
 
-  <!-- Coluna das Informações -->
+  <!-- Info Column -->
   <div style="flex: 2;">
-    <h3>Sobre Mim</h3>
+    <h3>About Me</h3>
     <ul>
-      <li>Estudante de ADS (IFPI)</li>
-      <li>Foco em back-end de baixo nível, IA aplicada e dados</li>
-      <li>Usuário Linux, viciado em terminal, automações e shell</li>
-      <li>Desenvolvimento prático, seguro e com obsessão por performance</li>
+      <li>ADS Student @ IFPI</li>
+      <li>Deep into low-level back-end, applied AI & data</li>
+      <li>Linux enthusiast, terminal addict, automation & shell fan</li>
+      <li>Hands-on, secure dev with borderline obsession for performance</li>
     </ul>
   </div>
 </section>
 
 ---
 
-### Interesses
-- Back-end com Assembly, C, C++, Golang  
-- Machine Learning com Python e bibliotecas científicas  
-- Análise de dados, padrões e algoritmos eficientes  
-- Performance de sistemas, devtools e infraestrutura Linux  
-- Produtividade via Neovim, Bash, Tmux, Dotfiles e scripts customizados  
+### Interests
+- Low-level back-end with Assembly, C, C++, Golang  
+- Machine Learning with Python & scientific libraries  
+- Data analysis, patterns & efficient algorithms  
+- System performance, devtools & Linux infrastructure  
+- Productivity via Neovim, Bash, Tmux, dotfiles & custom scripts  
 
 ---
 
-### Ferramentas e Tecnologias
+### Tools & Tech
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-1d232e?style=for-the-badge&logo=gnuemacs&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/C-1d232e?style=for-the-badge&logo=c&logoColor=cba6f7" />
@@ -77,4 +77,3 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
 </div>
-
