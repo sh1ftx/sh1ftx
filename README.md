@@ -13,8 +13,12 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="220" style="margin-right: 20px; border-radius: 10px;" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <!-- Imagem à esquerda -->
+  <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />
+
+  <!-- Texto à direita -->
   <div>
     <h3>Sobre Mim</h3>
     <ul>
@@ -24,7 +28,9 @@
       <li>Desenvolvimento prático, seguro e com obsessão por performance</li>
     </ul>
   </div>
+
 </div>
+
 
 ---
 
