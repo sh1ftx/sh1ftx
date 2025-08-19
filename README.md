@@ -23,7 +23,7 @@
   <div style="flex: 2;">
     <h3>About Me</h3>
     <ul>
-      <li>ADS Student @ IFPI</li>
+      <li>Systems Analysis and Development Student @ IFPI</li>
       <li>Deep into low-level back-end, applied AI & data</li>
       <li>Linux enthusiast, terminal addict, automation & shell fan</li>
       <li>Hands-on, secure dev with borderline obsession for performance</li>
