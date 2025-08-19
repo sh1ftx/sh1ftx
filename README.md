@@ -1,6 +1,5 @@
 # <p align="center">
-  <img src="https://i.pinimg.com/originals/99/ee/92/99ee923212b0aa54ea03c6717baccf39.gif" width="300" style="border-radius: 10px;" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+GUYS..." /> </p>
 
 <p align="center" style="margin-top: 10px;">
   <strong>0% UI, 100% performance</strong>
