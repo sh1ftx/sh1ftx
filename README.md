@@ -81,7 +81,7 @@
 
 ---
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="250" style="border-radius: 10px;" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/96/50/5a/96505a64543fc14ea2888b519b4677e7.gif" width="300" style="border-radius: 10px;" />
 </p>
 
