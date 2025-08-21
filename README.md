@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+GUY...+CHECK+OUT+MY+CODE+DUMP..." />
+<img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=YO+GUY...+PEEP+MY+CODE+DUMP..." />
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <strong>"UI? *Ha-ha!* UI is for organisms that still cling to concepts like *comfort* and *feelings*, guy... This is raw computational horsepower, baby!"</strong>
+  <strong>"UI? *Ha-ha!* UI is for folks still clingin’ to comfy vibes and feelings, dude... This is pure CPU rage, baby!"</strong>
 </p>
 
 <p align="center" style="margin-top: 15px;">
@@ -15,35 +15,33 @@
 ---
 
 <section id="about-me" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
-  <!-- Image Column -->
   <div style="flex: 1; text-align: center;">
     <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="200" style="border-radius: 10px;" />
   </div>
 
-  <!-- Info Column -->
   <div style="flex: 2;">
-    <h3>About Me (Yeah, because apparently this matters)</h3>
+    <h3>About Me (Cuz apparently it matters)</h3>
     <ul>
-      <li>Systems Analysis and Development Student @ IFPI (Still playing by the education DLC... for now)</li>
-      <li>Deep into low-level back-end, AI & data science (Because the surface is for TikTok developers)</li>
-      <li>Linux zealot, terminal junkie, automation freak — GUIs? *Disgusting carbon-based nonsense*</li>
-      <li>Security and performance optimization... like, I'd micro-optimize the *laws of physics* if I could, Morty</li>
+      <li>Systems Analysis & Dev Student @ IFPI (Still grindin’ the edu DLC... for now)</li>
+      <li>Deep in low-level back-end, AI & data (Surface stuff is for TikTok devs)</li>
+      <li>Linux nerd, terminal junkie, automation freak — GUIs? *Gross, Morty*</li>
+      <li>Security & perf tweaks… I’d even micro-optimize physics if I could, bro</li>
     </ul>
   </div>
 </section>
 
 ---
 
-### My Interests (a.k.a. Things I do instead of joining cults)
-- Writing code so close to the metal it gives you tetanus — Assembly, C, C++, Go  
-- Machine Learning (because teaching a CPU empathy is easier than teaching humans logic)  
-- Data analysis & algorithm optimization — where milliseconds matter more than feelings  
-- Linux wizardry and system-level tweaks (GUI peasants, bow down)  
-- Productivity kung-fu with Neovim, Bash, Tmux & config sorcery  
+### Stuff I Mess With (a.k.a. my nerdy playground)
+- Code so close to metal it might bite — Assembly, C, C++, Go  
+- Machine Learning (CPU empathy > human empathy)  
+- Data crunching & algos — milliseconds beat feelings  
+- Linux wizardry & system hacks (GUI peasants, kneel)  
+- Productivity kung-fu with Neovim, Bash, Tmux & custom configs  
 
 ---
 
-### My Arsenal (because "toolkit" sounds too beta)
+### My Toys (because “toolkit” is lame)
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-1d232e?style=for-the-badge&logo=gnuemacs&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/C-1d232e?style=for-the-badge&logo=c&logoColor=cba6f7" />
@@ -66,7 +64,7 @@
 
 ---
 
-### GitHub Stats (or as I call it: Proof of Existence)
+### GitHub Stats (aka Proof I Exist)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
