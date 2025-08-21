@@ -72,6 +72,11 @@
 
 ### GitHub Stats
 <div align="center">
+	<a href="http://sh1ftx.dev">
+		<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sh1ftx&theme=react&layout=compact&hide_border=true" />
+	</a>
+</div>
+<div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
   <br/>
