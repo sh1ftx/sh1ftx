@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+MORTY...+CHECK+OUT+MY+CODE+DUMP..." /> 
+<img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=HEY+MORTY...+CHECK+OUT+MY+CODE+DUMP..." />
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <strong>"UI? *Ha-ha!* UI is for organisms that still cling to concepts like *comfort* and *feelings*, Morty... This is raw computational horsepower, baby!"</strong>
+  <strong>"UI? *Ha-ha!* UI is for organisms that still cling to concepts like *comfort* and *feelings*, guy... This is raw computational horsepower, baby!"</strong>
 </p>
 
 <p align="center" style="margin-top: 15px;">
@@ -43,7 +43,7 @@
 
 ---
 
-### My Arsenal (because *"toolkit"* sounds too beta)
+### My Arsenal (because "toolkit" sounds too beta)
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-1d232e?style=for-the-badge&logo=gnuemacs&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/C-1d232e?style=for-the-badge&logo=c&logoColor=cba6f7" />
@@ -67,6 +67,7 @@
 ---
 
 ### GitHub Stats (or as I call it: Proof of Existence)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
 </div>
