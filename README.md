@@ -24,7 +24,7 @@
     <ul>
       <li>Systems Analysis & Dev Student @ IFPI (Still grindin’ the edu DLC... for now)</li>
       <li>Deep in low-level back-end, AI & data (Surface stuff is for TikTok devs)</li>
-      <li>Linux nerd, terminal junkie, automation freak — GUIs? *Gross, Morty*</li>
+      <li>Linux nerd, terminal junkie, automation freak — GUIs? *Gross, guy*</li>
       <li>Security & perf tweaks… I’d even micro-optimize physics if I could, bro</li>
     </ul>
   </div>
