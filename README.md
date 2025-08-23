@@ -75,3 +75,11 @@
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=sh1ftx&theme=tokyonight&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&background=00000000" />
 </div>
+
+--- 
+
+### My main repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sh1ftx&repo=VideoDownloader&theme=radical)](https://github.com/sh1ftx/VideoDownloader)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sh1ftx&repo=Heartbit&theme=radical)](https://github.com/sh1ftx/Heartbit)
