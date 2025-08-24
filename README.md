@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Assembly%20Sorcerer-1d232e?style=flat-square&logo=gnuemacs&logoColor=cba6f7"/>
   <img src="https://img.shields.io/badge/Kernel%20Tweaker-1d232e?style=flat-square&logo=linux&logoColor=cba6f7"/>
 </p>
+
 ---
 
 <section id="about-me" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
