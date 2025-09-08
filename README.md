@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1207479349285232731/1414236080223293530/qn6iUB7-2.gif?ex=68c026fc&is=68bed57c&hm=ebbbc0552285860f0364ff8efb91eeff40e70217899fd791cd66d6236f6d69d9&" width="800" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=30&center=true&vCenter=true&width=1000&lines=YO+GUY...+PEEP+MY+CODE..." />
 </p>
 
