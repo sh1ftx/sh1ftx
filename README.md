@@ -50,8 +50,6 @@
   <img src="https://img.shields.io/badge/Python-1d232e?style=for-the-badge&logo=python&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Linux-1d232e?style=for-the-badge&logo=linux&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Neovim-1d232e?style=for-the-badge&logo=neovim&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/Termux-1d232e?style=for-the-badge&logo=termux&logoColor=cba6f7" />
-  <img src="https://img.shields.io/badge/VS%20Code-1d232e?style=for-the-badge&logo=visualstudiocode&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Zed-1d232e?style=for-the-badge&logo=zedindustries&logoColor=cba6f7" />
 </p>
 
