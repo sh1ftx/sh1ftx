@@ -35,6 +35,61 @@
 
 ---
 
+### 🌌 Vision
+- Recover the lost link between mind, code & purpose  
+- Rebuild the connection between reasoning and creation  
+- Unite scientific clarity, philosophical depth & technological mastery  
+- Be a mind that links theory, code, and consciousness — understanding not just the circuit, but why it exists  
+
+---
+
+### 🔧 Mission
+- Make technology a mirror of human intelligence, not a substitute  
+- Educate with precision, purpose, and critical depth  
+- Build, research, and teach to forge thinkers, not just coders  
+- Create a culture of understanding, not blind imitation  
+
+---
+
+### ⚡ Values & Principles
+- **Lucidity over comfort**: clarity beats shortcuts  
+- **Mastery of the low-level**: real power lies beneath the interface  
+- **Knowledge as revolution**: understand to govern, not to serve  
+- **Constructive skepticism**: question everything to sharpen thought  
+- **Curiosity as fuel**: nothing is trivial, everything has a reason  
+- **Science with soul**: cold reasoning does not exclude purpose  
+- **Technology to liberate, not entertain**: the tool is sacred, usage defines the creator  
+
+---
+
+### 🎯 Purpose
+- Leave a legacy of intellectual and technical consciousness  
+- Recover the lost link between reasoning, creation, and consciousness  
+- Prove that genius is understanding the present down to the bone  
+- Ignite the pleasure of learning, the courage to create, and the clarity to think  
+- While others chase AI imitating humans, I build humans who outthink AI  
+
+---
+
+### 🏹 Goals
+
+**Short Term (1–2 years)**  
+- Master Assembly, C, C++, and Go to the level of code as art  
+- Complete Axion as a transparent, educational, dismantlable AI  
+- Publish guides to thinking like a systems engineer, not just coding  
+
+**Medium Term (3–5 years)**  
+- Write a manifesto/book on AI, philosophy & humanity  
+- Create an educational platform transforming learning into real reasoning  
+- Become a recognized technical and conceptual authority — not popular, but lucid  
+
+**Long Term (5–10 years)**  
+- Found a laboratory merging technology, philosophy & education  
+- Publish works connecting science, engineering & philosophy under my name  
+- Leave an enduring intellectual legacy that continues the mission: **keeping the link alive**  
+
+---
+
 ### Playground
 - Close-to-metal sorcery: Assembly, C, C++, Go  
 - Machine Learning & raw data crunching  
@@ -66,13 +121,22 @@
 - Question everything, know why, and never settle  
 - Tools are sacred, usage defines the creator  
 
+**Hacker & Tech Culture Principles**  
+- **Open Source / Free Software**: share knowledge, empower others  
+- **Ethical Piracy**: challenge monopolies, liberate tech  
+- **Anti-parasites**: code for creation, not exploitation  
+- **Curiosity over authority**: question systems, dissect freely  
+- **Hacker ethics**: freedom to explore, obligation to improve  
+- **Chaos with purpose**: break to understand, rebuild to elevate  
+- **Meritocratic craft**: skill > title > reputation  
+
 ---
 
 ### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
+  <img src="https://img.shields.io/badge/Activity%20Streak-🔥-cba6f7?style=flat-square&logo=github"/>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sh1ftx&theme=tokyonight&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&background=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
 </div>
