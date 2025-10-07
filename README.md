@@ -24,78 +24,59 @@
     <h3>About Me</h3>
     <ul>
       <li>Systems Analysis & Dev Student @ IFPI — brain wired to low-level ops</li>
-      <li>Back-end, AI & data — where surface ends, depth begins</li>
+      <li>Back-end, AI & data — onde superfície termina, profundidade começa</li>
       <li>Linux evangelist, terminal purist, automation freak</li>
-      <li>Security & performance craftsman — precision > aesthetics</li>
-      <li>Recovering the lost link between logic, creation & consciousness</li>
-      <li>Living proof that thinking beats copying every damn time</li>
+      <li>Recover the lost link: mind ↔ code ↔ purpose</li>
+      <li>Prove que pensar vence copiar</li>
     </ul>
   </div>
 </section>
 
 ---
 
-### 🌌 Vision
-- Recover the lost link between mind, code & purpose  
-- Rebuild the connection between reasoning and creation  
-- Unite scientific clarity, philosophical depth & technological mastery  
-- Be a mind that links theory, code, and consciousness — understanding not just the circuit, but why it exists  
+### Vision
+- Fazer tecnologia refletir inteligência humana  
+- Criar a ponte entre lógica, criação e consciência  
+- Transformar teoria em prática e propósito  
 
 ---
 
-### 🔧 Mission
-- Make technology a mirror of human intelligence, not a substitute  
-- Educate with precision, purpose, and critical depth  
-- Build, research, and teach to forge thinkers, not just coders  
-- Create a culture of understanding, not blind imitation  
+### Mission
+- Fazer da educação técnica uma ferramenta de pensamento crítico  
+- Criar mentes que ultrapassem o próprio criador  
+- Fazer pesquisa, código e filosofia dialogarem como um só  
 
 ---
 
-### ⚡ Values & Principles
-- **Lucidity over comfort**: clarity beats shortcuts  
-- **Mastery of the low-level**: real power lies beneath the interface  
-- **Knowledge as revolution**: understand to govern, not to serve  
-- **Constructive skepticism**: question everything to sharpen thought  
-- **Curiosity as fuel**: nothing is trivial, everything has a reason  
-- **Science with soul**: cold reasoning does not exclude purpose  
-- **Technology to liberate, not entertain**: the tool is sacred, usage defines the creator  
+### Values
+- Fazer do conhecimento uma revolução  
+- Criar domínio total do baixo nível  
+- Fazer da curiosidade combustível de ação  
+- Criar liberdade ética no uso da tecnologia  
+- Fazer da ciência com propósito uma regra, não exceção  
 
 ---
 
-### 🎯 Purpose
-- Leave a legacy of intellectual and technical consciousness  
-- Recover the lost link between reasoning, creation, and consciousness  
-- Prove that genius is understanding the present down to the bone  
-- Ignite the pleasure of learning, the courage to create, and the clarity to think  
-- While others chase AI imitating humans, I build humans who outthink AI  
+### Purpose
+- Fazer legado de inteligência e consciência técnica  
+- Criar humanos que pensem melhor que qualquer IA  
+- Fazer do ato de aprender e criar um manifesto diário  
 
 ---
 
-### 🏹 Goals
-
-**Short Term (1–2 years)**  
-- Master Assembly, C, C++, and Go to the level of code as art  
-- Complete Axion as a transparent, educational, dismantlable AI  
-- Publish guides to thinking like a systems engineer, not just coding  
-
-**Medium Term (3–5 years)**  
-- Write a manifesto/book on AI, philosophy & humanity  
-- Create an educational platform transforming learning into real reasoning  
-- Become a recognized technical and conceptual authority — not popular, but lucid  
-
-**Long Term (5–10 years)**  
-- Found a laboratory merging technology, philosophy & education  
-- Publish works connecting science, engineering & philosophy under my name  
-- Leave an enduring intellectual legacy that continues the mission: **keeping the link alive**  
+### Goals
+**Curto (1–2 anos)**: Fazer Axion funcional, Criar guias para pensar como engenheiro de sistemas  
+**Médio (3–5 anos)**: Fazer publicações sobre AI, Filosofia & Engenharia, Criar plataforma educacional disruptiva  
+**Longo (5–10 anos)**: Fazer laboratório de pesquisa e educação, Criar legado intelectual duradouro  
 
 ---
 
 ### Playground
-- Close-to-metal sorcery: Assembly, C, C++, Go  
-- Machine Learning & raw data crunching  
-- Linux wizardry & system-level hacks  
-- Productivity kung-fu with Neovim, Bash, Tmux  
-- Building thinkers, not just coders  
+- Fazer magia perto do metal: Assembly, C, C++, Go  
+- Criar dados crus e manipulação de ML  
+- Fazer truques de Linux e hacks de sistema  
+- Criar produtividade máxima com Neovim, Bash, Tmux  
+- Fazer pensadores, não apenas coders  
 
 ---
 
@@ -114,21 +95,14 @@
 ---
 
 ### Philosophy & Manifesto
-- Recover the lost link: mind ↔ code ↔ purpose  
-- Make tech a mirror of human intelligence, not its substitute  
-- Precision > aesthetics, understanding > imitation  
-- Teach, build, research — but create minds that surpass me  
-- Question everything, know why, and never settle  
-- Tools are sacred, usage defines the creator  
-
-**Hacker & Tech Culture Principles**  
-- **Open Source / Free Software**: share knowledge, empower others  
-- **Ethical Piracy**: challenge monopolies, liberate tech  
-- **Anti-parasites**: code for creation, not exploitation  
-- **Curiosity over authority**: question systems, dissect freely  
-- **Hacker ethics**: freedom to explore, obligation to improve  
-- **Chaos with purpose**: break to understand, rebuild to elevate  
-- **Meritocratic craft**: skill > title > reputation  
+- Fazer o elo perdido voltar: mente ↔ código ↔ propósito  
+- Criar tecnologia como reflexo da inteligência humana  
+- Fazer precisão superar estética, entendimento superar imitação  
+- Criar mentes que ultrapassem o mestre  
+- Fazer hacking ético, software livre e pirataria construtiva  
+- Criar contra parasitas digitais, explorar sistemas para aprender  
+- Fazer caos com propósito e liberdade com responsabilidade  
+- Criar valor real, não hype vazio  
 
 ---
 
