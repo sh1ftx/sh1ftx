@@ -23,10 +23,12 @@
   <div style="flex: 2;">
     <h3>About Me</h3>
     <ul>
-      <li>Systems Analysis & Dev Student @ IFPI (brain wired to low-level ops)</li>
+      <li>Systems Analysis & Dev Student @ IFPI — brain wired to low-level ops</li>
       <li>Back-end, AI & data — where surface ends, depth begins</li>
       <li>Linux evangelist, terminal purist, automation freak</li>
       <li>Security & performance craftsman — precision > aesthetics</li>
+      <li>Recovering the lost link between logic, creation & consciousness</li>
+      <li>Living proof that thinking beats copying every damn time</li>
     </ul>
   </div>
 </section>
@@ -38,6 +40,7 @@
 - Machine Learning & raw data crunching  
 - Linux wizardry & system-level hacks  
 - Productivity kung-fu with Neovim, Bash, Tmux  
+- Building thinkers, not just coders  
 
 ---
 
@@ -52,6 +55,16 @@
   <img src="https://img.shields.io/badge/Neovim-1d232e?style=for-the-badge&logo=neovim&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/Zed-1d232e?style=for-the-badge&logo=zedindustries&logoColor=cba6f7" />
 </p>
+
+---
+
+### Philosophy & Manifesto
+- Recover the lost link: mind ↔ code ↔ purpose  
+- Make tech a mirror of human intelligence, not its substitute  
+- Precision > aesthetics, understanding > imitation  
+- Teach, build, research — but create minds that surpass me  
+- Question everything, know why, and never settle  
+- Tools are sacred, usage defines the creator  
 
 ---
 
