@@ -29,7 +29,7 @@ And when you gaze long into an abyss, the abyss gazes also into you.”<br>
 
 ## Playground
 
-<img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NTc2MzEsIm5iZiI6MTc2MzU1NzMzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE5VDEzMDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNWFlNjUxOWUwZmM5ZTM0OTM4ZTU4YTEzMjZjZjg4NTZlNjk2ZGI2ZDUzYjAzODkzYWZkY2ExNTYzMDgwNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xlqeKY801cfJ7tTniBYFIyCfV7APF7t51vAd-yaUPUE"
+<img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif"
 width="260" align="left" style="border-radius: 10px;" />
 
 Code next to metal: Assembly, C, C++, Go — where every cycle matters  
