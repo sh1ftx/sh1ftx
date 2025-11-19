@@ -16,7 +16,7 @@
 
 <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="240" align="right" />
 
-<ul align="left">
+<ul align="right">
   <li>I study Systems Analysis & Development because understanding systems is the easiest way to prove most of them exist just to break.</li>
   <li>Back-end, AI, data — the layers where the machine stops pretending and starts spitting the truth: nothing works until you force it to.</li>
   <li>Linux, terminal, automation — life’s too short to click on colorful buttons waiting for magic to happen.</li>
