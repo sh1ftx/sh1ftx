@@ -29,7 +29,7 @@
 
 ## **Playground**
 
-<img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NTc2MzEsIm5iZiI6MTc2MzU1NzMzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE5VDEzMDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNWFlNjUxOWUwZmM5ZTM0OTM4ZTU4YTEzMjZjZjg4NTZlNjk2ZGI2ZDUzYjAzODkzYWZkY2ExNTYzMDgwNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xlqeKY801cfJ7tTniBYFIyCfV7APF7t51vAd-yaUPUE"
+<img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif"
      width="260" align="left" style="border-radius: 10px;" />
 
 - Code next to metal: Assembly, C, C++, Go — where every cycle matters  
@@ -40,33 +40,34 @@
 <br clear="both">
 
 ---
+
 ## **Tools**
 
 <p align="center">
 
   <!-- Assembly -->
-  <img src="https://img.shields.io/badge/Assembly-1a1a1a?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-0d0d0d?style=for-the-badge&logo=amd&logoColor=9f9f9f" />
 
   <!-- C -->
-  <img src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=9f9f9f" />
 
   <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-141414?style=for-the-badge&logo=c%2B%2B&logoColor=9f9f9f" />
 
   <!-- Go -->
-  <img src="https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-161616?style=for-the-badge&logo=go&logoColor=9f9f9f" />
 
   <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=9f9f9f" />
 
   <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=9f9f9f" />
 
   <!-- Neovim -->
-  <img src="https://img.shields.io/badge/Neovim-1a1a1a?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-1f1f1f?style=for-the-badge&logo=neovim&logoColor=9f9f9f" />
 
   <!-- Zed -->
-  <img src="https://img.shields.io/badge/Zed-1a1a1a?style=for-the-badge&logo=zedindustries&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zed-222222?style=for-the-badge&logo=zedindustries&logoColor=9f9f9f" />
 
 </p>
 
