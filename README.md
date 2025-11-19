@@ -83,5 +83,4 @@ Neovim, Bash, Tmux — approach the metal, and it stares back
 
   <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=github_dark&title_color=9f9f9f&text_color=9f9f9f&bg_color=00000000" height="180" />    
 
-  <img src="https://streak-stats.demolab.com/?user=sh1ftx&theme=github-dark&ring=b347ff&fire=b347ff&currStreakLabel=9f9f9f&background=000000" height="180" />
-<br clear="both">
+  <img src="https://streak-stats.demolab.com/?user=sh1ftx&theme=github-dark&ring=b347ff&fire=b347ff&currStreakLabel=9f9f9f&background=000000&hide_border=true" height="180" />
