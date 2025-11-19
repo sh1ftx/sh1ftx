@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
+---
 
 ## **About Me**
 
@@ -25,21 +25,19 @@
 
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
+---
 
 ## **Playground**
 
-<img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NTc2MzEsIm5iZiI6MTc2MzU1NzMzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFmei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFmei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFmei1EYXRlPTIwMjUxMTE5VDEzMDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNWFlNjUxOWUwZmM5ZTM0OTM4ZTU4YTEzMjZjZjg4NTZlNjk2ZGI2ZDUzYjAzODkzYWZkY2ExNTYzMDgwNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xlqeKY801cfJ7tTniBYFIyCfV7APF7t51vAd-yaUPUE"
+<img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NTc2MzEsIm5iZiI6MTc2MzU1NzMzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE5VDEzMDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNWFlNjUxOWUwZmM5ZTM0OTM4ZTU4YTEzMjZjZjg4NTZlNjk2ZGI2ZDUzYjAzODkzYWZkY2ExNTYzMDgwNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xlqeKY801cfJ7tTniBYFIyCfV7APF7t51vAd-yaUPUE" 
      width="260" align="left" style="border-radius: 10px;" />
 
 - Code next to metal: Assembly, C, C++, Go — where every cycle matters  
 - Machine learning & data forged in raw clarity, not fluff  
 - Linux internals, system-level engineering, kernel soul dissections  
-- Neovim, Bash, Tmux — approach the metal, and it stares back  
+- Neovim, Bash, Tmux — approach the metal, and it stares back
 
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
+---
 
 ## **Tools**
 
@@ -54,9 +52,7 @@
   <img src="https://img.shields.io/badge/Zed-1d232e?style=for-the-badge&logo=zedindustries&logoColor=cba6f7" />
 </p>
 
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="100%" />
+---
 
 ## **GitHub Stats**
 
@@ -68,7 +64,4 @@
 
 <br clear="both">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NTc2MzEsIm5iZiI6MTc2MzU1NzMzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFmei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFmei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFmei1EYXRlPTIwMjUxMTE5VDEzMDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNWFlNjUxOWUwZmM5ZTM0OTM4ZTU4YTEzMjZjZjg4NTZlNjk2ZGI2ZDUzYjAzODkzYWZkY2ExNTYzMDgwNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xlqeKY801cfJ7tTniBYFIyCfV7APF7t51vAd-yaUPUE" 
-     width="260" align="right" style="border-radius: 10px;" />
-
-<br clear="both">
+<img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM1NTc2MzEsIm5iZiI6MTc2MzU1NzMzMSwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFmei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFmei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTklMk
