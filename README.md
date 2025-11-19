@@ -2,18 +2,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=40&center=true&vCenter=true&width=1200&lines=YO+GUY...+PEEP+MY+CODE...;NO+UI,+JUST+RAW+LOGIC;BLOOD+FOR+THE+CPU,+GLORY+FOR+THE+STACK" />
 </p>
 
-<p align="center" style="margin-top: 15px;">
-  <strong>"UI? Ha. Comfort is for mortals. This repo runs on pure voltage & rage."</strong>
-</p>
+<p align="center"><strong>"UI? Ha. Comfort is for mortals. This repo runs on pure voltage & rage."</strong></p>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Linux%20Overlord-1d232e?style=flat-square&logo=linux&logoColor=cba6f7"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20Data-1d232e?style=flat-square&logo=tensorflow&logoColor=cba6f7"/>
-  <img src="https://img.shields.io/badge/Terminal%20Addict-1d232e?style=flat-square&logo=gnubash&logoColor=cba6f7"/>
-  <img src="https://img.shields.io/badge/Assembly%20Sorcerer-1d232e?style=flat-square&logo=gnuemacs&logoColor=cba6f7"/>
+<p align="center" style="font-style: italic; font-size: 18px; margin: 30px 0;">
+  “He who fights with monsters should see to it that in the process he does not become a monster. And when you gaze long into an abyss, the abyss gazes also into you.” — Friedrich Nietzsche  
 </p>
 
 ---
+
+## About Me
 
 <section id="about-me" style="display: flex; align-items: flex-start; gap: 20px; margin: 40px 0;">
   <div style="flex: 1; text-align: center;">
@@ -21,27 +18,28 @@
   </div>
 
   <div style="flex: 2;">
-    <h3>About Me</h3>
     <ul>
-      <li>Systems Analysis & Dev Student @ IFPI (brain wired to low-level ops)</li>
-      <li>Back-end, AI & data — where surface ends, depth begins</li>
-      <li>Linux evangelist, terminal purist, automation freak</li>
-      <li>Security & performance craftsman — precision > aesthetics</li>
+      <li>Systems Analysis & Dev Student @ IFPI — mind tuned for low-level truths, not surface comforts</li>
+      <li>Back-end, AI & data — digging where abstraction ends and the real machinery hums</li>
+      <li>Linux purist, terminal devotee, automation zealot — no GUI illusions</li>
+      <li>Security & performance craftsman — I sculpt logic as a blade, not as decoration</li>
     </ul>
   </div>
 </section>
 
 ---
 
-### Playground
-- Close-to-metal sorcery: Assembly, C, C++, Go  
-- Machine learning & raw data crunching  
-- Linux wizardry & system-level hacks  
-- Productivity kung-fu with Neovim, Bash, Tmux  
+## Playground
+
+- Code next to metal: Assembly, C, C++, Go — where every cycle importa  
+- Machine learning & data forged in raw clarity, not in fluff  
+- Linux internals, system-level engineering, introspection of the kernel’s soul  
+- Neovim, Bash, Tmux — the discipline is the art, the art is the discipline  
 
 ---
 
-### Tools
+## Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-1d232e?style=for-the-badge&logo=gnuemacs&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/C-1d232e?style=for-the-badge&logo=c&logoColor=cba6f7" />
@@ -55,7 +53,8 @@
 
 ---
 
-### GitHub Stats
+## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
   <br/><br/>
