@@ -1,7 +1,5 @@
 <!-- HEADER IMAGE RIGHT + TYPING LEFT -->
 
-<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="220" align="right" />
-
 <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=38&center=false&vCenter=true&width=600&lines=YO+GUY...+PEEP+MY+CODE...;NO+UI,+JUST+RAW+LOGIC;BLOOD+FOR+THE+CPU,+GLORY+FOR+THE+STACK" />
 
 <p align="left" style="font-style: italic; color: #cba6f7;">
@@ -54,8 +52,6 @@
 ---
 
 ## **GitHub Stats**
-
-<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="180" align="left" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&bg_color=00000000" height="180" />
