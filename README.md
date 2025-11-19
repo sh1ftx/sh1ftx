@@ -1,67 +1,45 @@
-<!-- ========================= -->
-<!--      HEADER SECTION       -->
-<!-- ========================= -->
+<!-- HEADER IMAGE RIGHT + TYPING LEFT -->
 
-<section id="header" style="display: flex; align-items: center; justify-content: center; gap: 30px; margin: 40px 0;">
+<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="220" align="right" />
 
-  <!-- GIF -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="220" style="border-radius: 10px;" />
-  </div>
+<img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=38&center=false&vCenter=true&width=600&lines=YO+GUY...+PEEP+MY+CODE...;NO+UI,+JUST+RAW+LOGIC;BLOOD+FOR+THE+CPU,+GLORY+FOR+THE+STACK" />
 
-  <!-- Typing + Nietzsche -->
-  <div style="flex: 2; text-align: center;">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=cba6f7&size=38&center=true&vCenter=true&width=1000&lines=YO+GUY...+PEEP+MY+CODE...;NO+UI,+JUST+RAW+LOGIC;BLOOD+FOR+THE+CPU,+GLORY+FOR+THE+STACK" />
-    
-    <p style="font-style: italic; font-size: 17px; margin-top: 20px; color: #cba6f7;">
-      “He who fights with monsters should see to it that in the process he does not become a monster.<br>
-      And when you gaze long into an abyss, the abyss gazes also into you.”
-      <br>— Friedrich Nietzsche
-    </p>
-  </div>
+<p align="left" style="font-style: italic; color: #cba6f7;">
+  “He who fights with monsters should see to it that in the process he does not become a monster.<br>
+  And when you gaze long into an abyss, the abyss gazes also into you.”<br>
+  — Friedrich Nietzsche
+</p>
 
-</section>
+<br clear="both">
 
 ---
 
-<!-- ========================= -->
-<!--        ABOUT ME           -->
-<!-- ========================= -->
+## **About Me**
 
-## About Me
+<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="240" align="right" />
 
-<table>
-  <tr>
+<ul align="left">
+  <li>I study Systems Analysis & Development because understanding systems is the easiest way to prove most of them exist just to break.</li>
+  <li>Back-end, AI, data — the layers where the machine stops pretending and starts spitting the truth: nothing works until you force it to.</li>
+  <li>Linux, terminal, automation — life’s too short to click on colorful buttons waiting for magic to happen.</li>
+  <li>Security and performance — if it’s not fast, secure, and brutally simple, then it’s just another problem waiting to explode.</li>
+</ul>
 
-    <!-- TEXTO À ESQUERDA -->
-    <td style="vertical-align: top; padding-right: 20px;">
-      <ul>
-        <li>I study Systems Analysis & Development because understanding systems is the easiest way to prove most of them exist just to break.</li>
-        <li>Back-end, AI, data — the layers where the machine stops pretending and starts spitting the truth: nothing works until you force it to.</li>
-        <li>Linux, terminal, automation — life’s too short to click on colorful buttons waiting for magic to happen.</li>
-        <li>Security and performance — if it’s not fast, secure, and brutally simple, then it’s just another problem waiting to explode.</li>
-      </ul>
-    </td>
-
-    <!-- IMAGEM À DIREITA -->
-    <td style="vertical-align: top; text-align: center;">
-      <img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="260" style="border-radius: 10px;" />
-    </td>
-
-  </tr>
-</table>
+<br clear="both">
 
 ---
 
-## Playground
+## **Playground**
+
 - Code next to metal: Assembly, C, C++, Go — where every cycle matters  
-- Machine learning & data forged in raw clarity, not in fluff  
-- Linux internals, system-level engineering, introspection of the kernel’s soul  
-- Neovim, Bash, Tmux — approach the metal, and it stares back.
+- Machine learning & data forged in raw clarity, not fluff  
+- Linux internals, system-level engineering, kernel soul dissections  
+- Neovim, Bash, Tmux — approach the metal, and it stares back
 
 ---
 
-## Tools
+## **Tools**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Assembly-1d232e?style=for-the-badge&logo=gnuemacs&logoColor=cba6f7" />
   <img src="https://img.shields.io/badge/C-1d232e?style=for-the-badge&logo=c&logoColor=cba6f7" />
@@ -75,12 +53,14 @@
 
 ---
 
-## GitHub Stats
+## **GitHub Stats**
+
+<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="180" align="left" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=00000000" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=sh1ftx&theme=tokyonight&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&background=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&title_color=cba6f7&text_color=cba6f7&bg_color=00000000" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=sh1ftx&theme=tokyonight&ring=cba6f7&fire=cba6f7&currStreakLabel=cba6f7&background=00000000" height="180" />
 </div>
+
+<br clear="both">
