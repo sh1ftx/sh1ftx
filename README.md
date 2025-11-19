@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE RIGHT + TYPING LEFT -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?size=38&center=false&vCenter=true&width=600&multiline=true&color=000000,3a3a3a,6f6f6f,9f9f9f&lines=YO+GUY...+PEEP+MY+CODE...;NO+UI,+JUST+RAW+LOGIC;BLOOD+FOR+THE+CPU,+GLORY+FOR+THE+STACK" />
+<img src="https://readme-typing-svg.herokuapp.com/?size=38&center=false&vCenter=true&width=600&lines=YO+GUY...+PEEP+MY+CODE...;NO+UI,+JUST+RAW+LOGIC;BLOOD+FOR+THE+CPU,+GLORY+FOR+THE+STACK&gradientColor=000000,9f9f9f" />
 
 <p align="left" style="font-style: italic; color: #9f9f9f;">
 “He who fights with monsters should see to it that in the process he does not become a monster.<br>
