@@ -29,7 +29,7 @@ And when you gaze long into an abyss, the abyss gazes also into you.”<br>
 
 ## Playground
 
-<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif"
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif"
 width="260" align="left" style="border-radius: 10px;" />
 
 Code next to metal: Assembly, C, C++, Go — where every cycle matters  
