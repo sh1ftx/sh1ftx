@@ -40,34 +40,33 @@
 <br clear="both">
 
 ---
-
 ## **Tools**
 
 <p align="center">
 
-<!-- Assembly -->
-<img src="https://img.shields.io/badge/Assembly-101014?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfAF9fX2ZmZnt7e4eHh8bGxrCwsLCwsOjo6PKysq2traGhobu7u5eXl8HBwaenp7+/v4+Pj5qamqKiop6enpmZmZqamqqioqKioqJ2dnZycnK+vr////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWj4CeOZGmeaKqubOu+cCzPdFjBQAOw==" />
+  <!-- Assembly -->
+  <img src="https://img.shields.io/badge/Assembly-1a1a1a?style=for-the-badge&logo=amd&logoColor=white" />
 
-<!-- C -->
-<img src="https://img.shields.io/badge/C-0f0f13?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfAP///4CAgFpaWmZmZnl5eYSEhLa2trW1tcXFxZOTk4+Pj3V1dY6OjsXFxcPDw6WlpZiYmImJiYKCgoGBgYCAgP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWf4CeOZGmeaKqubOs+cCzPdFjBQAOw==" />
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=white" />
 
-<!-- C++ -->
-<img src="https://img.shields.io/badge/C++-141419?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfAMLCwsjIyJmZmaGhob+/v7W1tbOzs7u7u6ampoKCgoCAgIqKisfHx76+vvj4+OTk5La2trCwsNfX19jY2P///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWi4CeOZGmeaKqubOu+cCzPdFjBQAOw==" />
+  <!-- C++ -->
+  <img src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-<!-- Go -->
-<img src="https://img.shields.io/badge/Go-16161d?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfAMDAwIqKinf39+Li4sTExJ2dnZGRkZycnNra2tfX19TU1Lm5uYWFhYKCgoGBgYCAgP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWZ4CeOZGmeaKqubOu+cCzPdFjBQAOw==" />
+  <!-- Go -->
+  <img src="https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=white" />
 
-<!-- Python -->
-<img src="https://img.shields.io/badge/Python-1b1b22?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfANfX19zc3KOjo5iYmNzc3MfHx6enp8bGxq2traamprW1tc7OztLS0v///4CAgNfX19HR0ebm5qqqqoCAgP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWg4CeOZGmeaKqubOu+cCzPdFjBQAOw==" />
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white" />
 
-<!-- Linux -->
-<img src="https://img.shields.io/badge/Linux-202028?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfAP///4CAgMDAwICAgIqKiq2traenp4aGhrS0tIqKisTExOjo6HNzc4CAgNra2qampoCAgP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWg4CeOZGmeaKqubOu+cCzPdFjBQAOw==" />
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=white" />
 
-<!-- Neovim -->
-<img src="https://img.shields.io/badge/Neovim-1a1a20?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfAP///5mZmYmJiZaWlp6enpmZmZycnLGxscHBwcTExNDQ0ICAgN7e3qWlpX5+fp2dnZaWlpqamv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWg4CeOZGmeaKqubOu+cCzPdFjBQAOw==" />
+  <!-- Neovim -->
+  <img src="https://img.shields.io/badge/Neovim-1a1a1a?style=for-the-badge&logo=neovim&logoColor=white" />
 
-<!-- Zed -->
-<img src="https://img.shields.io/badge/Zed-1b1b21?style=for-the-badge&logo=data:image/gif;base64,R0lGODlhEAAQAMQfAP///8DAwJiYmN7e3uLi4t7e3qWlpaampoWFhYGBgYaGhrCwsP///5OTk5qamv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAB8ALAAAAAAQABAAAAWg4CeOZGmeaKqubOu+cCzPdFjBQAOw==" />
+  <!-- Zed -->
+  <img src="https://img.shields.io/badge/Zed-1a1a1a?style=for-the-badge&logo=zedindustries&logoColor=white" />
 
 </p>
 
