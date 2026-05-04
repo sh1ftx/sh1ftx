@@ -1,5 +1,5 @@
 <!-- typing header -->
-<img src="https://readme-typing-svg.herokuapp.com/?color=A9B58C&size=28&center=false&vCenter=true&width=700&lines=cresci+no+sert%C3%A3o.+aprendi+a+depurar+depois.;o+criador+enfrenta+a+natureza+sozinho.;o+parasita+enfrenta+via+intermedi%C3%A1rio.;eu+sei+qual+dos+dois+sou." />
+<img src="https://readme-typing-svg.herokuapp.com/?color=A9B58C&size=28&center=false&vCenter=true&width=700&lines=O+criador+enfrenta+a+natureza+sozinho.;O+parasita+enfrenta+via+intermedi%C3%A1rio.;Eu+sei+qual+dos+dois+sou." />
 
 <p align="left" style="font-style:italic;color:#6F6A5E;">
 "Ao longo dos séculos existiram pessoas que deram os primeiros passos em novas estradas,<br>
