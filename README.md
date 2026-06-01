@@ -19,7 +19,6 @@ munidos apenas com a sua visão. Todos tinham isto em comum: a resposta que rece
   <li> Cresci no sertão do Piauí — zona rural, trabalho braçal, sol sem mediação. Cuidando de animais e da terra antes de saber sequer conhecer oque seria depurar um código. Essa formação me ensinou uma coisa simples: ou você entende o que está acontecendo, se adapta, e enfrenta tudo pacientimente ou continua sofrendo sem saber nem por quê.</li>
   <li> Cursando Análise e Desenvolvimento de Sistemas. 
  <li> Back-end, segurança, baixo nível — as camadas que o parasita nunca vai tocar porque exigem que você produza de verdade, sem plateia.</li>
-  <li>Sou cristão. Faço especialização em teologia. Aprecio a filosofia e tenho com hobby ler e jogar xadrez nas horas vagas. Quem nunca entrou em conflito com uma ideia nunca pensou de verdade.</li>
 </ul>
 
 <br clear="both">
