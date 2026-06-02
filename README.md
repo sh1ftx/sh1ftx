@@ -7,37 +7,6 @@ munidos apenas com a sua visão. Todos tinham isto em comum: a resposta que rece
 — Ayn Rand, The Fountainhead
 </p>
 
-<br clear="both">
-
----
-
-## About Me
-
-<img src="https://user-images.githubusercontent.com/77577746/149508180-c75be0e3-1983-4592-9f1d-d58b64f055d4.gif" width="240" align="right" />
-
-<ul align="left" style="color:#6F6A5E;">
-  <li> Cresci no sertão do Piauí — zona rural, trabalho braçal, sol sem mediação. Cuidando de animais e da terra antes de saber sequer conhecer oque seria depurar um código. Essa formação me ensinou uma coisa simples: ou você entende o que está acontecendo, se adapta, e enfrenta tudo pacientimente ou continua sofrendo sem saber nem por quê.</li>
-  <li> Cursando Análise e Desenvolvimento de Sistemas. 
- <li> Back-end, segurança, baixo nível — as camadas que o parasita nunca vai tocar porque exigem que você produza de verdade, sem plateia.</li>
-</ul>
-
-<br clear="both">
-
----
-
-## Playground
-
-<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="260" align="left" style="border-radius:12px;" />
-
-<ul style="color:#6F6A5E;">
-  <li>Assembly, C, C++, Go — onde cada ciclo tem custo e você não pode fingir que entendeu. </li>
-  <li>Segurança, hacking, sistemas — quem não entende o que está embaixo é refém de quem entende.</li>
-  <li>Linux internals, kernel, automação — remover o intermediário é o único caminho para ser um criador </li>
-</ul>
-
-<br clear="both">
-
----
 
 ## Tools
 
