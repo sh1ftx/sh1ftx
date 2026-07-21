@@ -3,10 +3,10 @@
 
 <p align="left" style="font-style:italic;color:#6F6A5E;">
 "Ao longo dos séculos existiram pessoas que deram os primeiros passos em novas estradas,<br>
-munidos apenas com a sua visão. Todos tinham isto em comum: a resposta que receberam — o ódio."<br>
+munidos apenas com a sua visão. Os seu objetivos divergiram, mas todos tinham isto em comum: a resposta que receberam — o ódio."<br>
 — Ayn Rand, The Fountainhead
 </p>
-
+1
 
 ## Tools
 
