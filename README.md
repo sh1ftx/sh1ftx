@@ -7,7 +7,6 @@ munidos apenas com a sua visão. Os seus objetivos divergiram, mas todos tinham 
 comum: a resposta que receberam — o ódio."<br>
 — Ayn Rand, The Fountainhead
 </p>
-1
 
 ## Tools
 
