@@ -34,11 +34,11 @@ a resposta que receberam — o ódio."<br>
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=sh1ftx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=A9B58C&text_color=6F6A5E&icon_color=C48A5A&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sh1ftx&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=A9B58C&text_color=6F6A5E&icon_color=C48A5A"
   />
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A9B58C&text_color=6F6A5E&cache_seconds=1800"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=A9B58C&text_color=6F6A5E"
   />
 </p>
