@@ -19,17 +19,11 @@ a resposta que receberam — o ódio."
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Assembly-A9B58C?style=for-the-badge&logo=amd&logoColor=F5F3EE"/>
-  <img src="https://img.shields.io/badge/C-A9B58C?style=for-the-badge&logo=c&logoColor=F5F3EE"/>
-  <img src="https://img.shields.io/badge/C++-A9B58C?style=for-the-badge&logo=c%2B%2B&logoColor=F5F3EE"/>
-  <img src="https://img.shields.io/badge/Go-A9B58C?style=for-the-badge&logo=go&logoColor=F5F3EE"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,linux,neovim&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-A9B58C?style=for-the-badge&logo=python&logoColor=F5F3EE"/>
-  <img src="https://img.shields.io/badge/Linux-A9B58C?style=for-the-badge&logo=linux&logoColor=F5F3EE"/>
-  <img src="https://img.shields.io/badge/Neovim-A9B58C?style=for-the-badge&logo=neovim&logoColor=F5F3EE"/>
-  <img src="https://img.shields.io/badge/Zed-A9B58C?style=for-the-badge&logo=zedindustries&logoColor=F5F3EE"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 <br>
