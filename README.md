@@ -33,11 +33,7 @@ a resposta que receberam — o ódio."<br>
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh1ftx&show_icons=true&theme=transparent&hide_border=true&title_color=A9B58C&text_color=D8D3C8&icon_color=C48A5A"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sh1ftx&layout=compact&theme=transparent&hide_border=true&title_color=A9B58C&text_color=D8D3C8"
+    height="180"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh1ftx&show_icons=true&theme=transparent&title_color=A9B58C&text_color=6F6A5E&icon_color=C48A5A"
   />
 </p>
