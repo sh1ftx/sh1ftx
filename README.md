@@ -18,7 +18,7 @@ a resposta que receberam — o ódio."
 
 <h3>Tools</h3>
 
-<p>
+<p aling="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,go,python,linux,neovim,git,github,vscode&theme=dark" />
 </p>
 
@@ -26,7 +26,7 @@ a resposta que receberam — o ódio."
 
 <h3>GitHub Activity</h3>
 
-<p>
+<p aling="center">
   <img
     width="62%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&hide_border=true&title_color=A9B58C&text_color=F5F3EE&icon_color=C48A5A"
