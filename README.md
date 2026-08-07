@@ -19,7 +19,7 @@ a resposta que receberam — o ódio."
 <h3>Tools</h3>
 
 <p aling="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,linux,neovim,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=Rust,c,cpp,go,python,linux,neovim,git,github&theme=dark" />
 </p>
 
 <br>
