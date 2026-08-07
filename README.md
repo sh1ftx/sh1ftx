@@ -23,12 +23,3 @@ a resposta que receberam — o ódio."
 </p>
 
 <br>
-
-<h3>GitHub Activity</h3>
-
-<p aling="center">
-  <img
-    width="62%"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sh1ftx&show_icons=true&theme=tokyonight&hide_border=true&title_color=A9B58C&text_color=F5F3EE&icon_color=C48A5A"
-  />
-</p>
