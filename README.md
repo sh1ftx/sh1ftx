@@ -17,5 +17,5 @@ a resposta que receberam — o ódio."
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,python,bash,linux,arch,debian,neovim,vim,vscode,git,github,docker,kubernetes,nginx,terraform,ansible,githubactions,aws,cloudflare,postgres,sqlite,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,python,bash,linux,arch,debian,neovim,vim,vscode,git,github,docker,vagrant,kubernetes,nginx,terraform,ansible,githubactions,aws,cloudflare,postgres,sqlite,redis&theme=dark" />
 </p>
