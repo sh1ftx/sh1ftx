@@ -19,5 +19,5 @@ a resposta que receberam — o ódio."
 <h3>Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,python,linux,neovim,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,python,linux,neovim,zed,git,github&theme=dark" />
 </p>
