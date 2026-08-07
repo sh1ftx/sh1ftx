@@ -6,7 +6,9 @@
 
 <p align="left">
 <i>
-"Ao longo dos séculos existiram pessoas que deram os primeiros passos em novas estradas, munidos apenas com a sua visão. Os seus objetivos divergiram, mas todos tinham isto em comum: a resposta que receberam — o ódio."
+"Ao longo dos séculos existiram pessoas que deram os primeiros passos em novas estradas, <br>
+ munidos apenas com a sua visão. Os seus objetivos divergiram, mas todos tinham isto em comum: <br>
+ a resposta que receberam — o ódio."
 <br><br>
 <b>— Ayn Rand, <i>The Fountainhead</i></b>
 </i>
