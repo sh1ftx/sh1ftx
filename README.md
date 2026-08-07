@@ -16,8 +16,7 @@ a resposta que receberam — o ódio."
 
 <br>
 
-<h3>Tools</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,python,linux,neovim,zed,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,c,cpp,go,python,linux,neovim,git,github&theme=dark" />
+  <img src="https://zed.dev/icon.png" height="48" alt="Zed" />
 </p>
